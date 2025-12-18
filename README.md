@@ -105,6 +105,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 | Name/Link                                                           | Description                                                                                                               | Install Type              |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [PraisonAI](https://github.com/MervinPraison/PraisonAI) | Open Source :heavy_check_mark: <br /> Multi-AI Agents framework with Ollama support :heavy_check_mark: <br /> 100+ LLM support :heavy_check_mark: <br /> MCP integration :heavy_check_mark: | pip <br /> npm |
 | [Ollama SDK for .NET](https://github.com/tryAGI/Ollama) | Open Source :heavy_check_mark: <br /> Based on OpenAPI specification :heavy_check_mark: <br /> From .Net Framework to .NET 8 including latest features like trimming :heavy_check_mark:  | NuGet |
 | [Ollama SDK for Dart](https://pub.dev/packages/ollama_dart) | Dart client for Ollama API | pub.dev |
 | [LangChain.dart Ollama](https://pub.dev/packages/langchain_ollama) | Ollama integration for LangChain.dart| pub.dev |
