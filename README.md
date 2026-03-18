@@ -110,3 +110,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [LangChain.dart Ollama](https://pub.dev/packages/langchain_ollama) | Ollama integration for LangChain.dart| pub.dev |
 
 ## Extensions & Plugins
+
+| Name/Link | Description | Install Type |
+| --- | --- | --- |
+| [manusilized](https://github.com/wd041216-bit/manusilized) | Open Source :heavy_check_mark: <br /> Patches OpenClaw to unlock real-time token streaming, reliable Markdown-fallback tool calling, and context compression for open-source Ollama models (GLM-5, Qwen3, DeepSeek V3.2) | git patch |
