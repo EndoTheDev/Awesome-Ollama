@@ -58,6 +58,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Chatbox](https://github.com/Bin-Huang/Chatbox)                                      |                                                                                                                                  |
 | [WinForm Ollama Copilot](https://github.com/tgraupmann/WinForm_Ollama_Copilot)       |                                                                                                                                  |
 | [Nosia](https://github.com/nosia-ai/nosia)                                           |                                                                                                                                  |
+| [n8n Ollama Desktop](https://github.com/kkomelin/n8n-ollama-desktop)                 | Desktop app that combines n8n and Ollama. Includes custom UI for model management.                                               | Download
 
 ## Mobile Apps
 
