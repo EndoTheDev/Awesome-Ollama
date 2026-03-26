@@ -58,6 +58,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Chatbox](https://github.com/Bin-Huang/Chatbox)                                      |                                                                                                                                  |
 | [WinForm Ollama Copilot](https://github.com/tgraupmann/WinForm_Ollama_Copilot)       |                                                                                                                                  |
 | [Nosia](https://github.com/nosia-ai/nosia)                                           |                                                                                                                                  |
+| [Locally Uncensored](https://github.com/PurpleDoubleD/locally-uncensored)            | Open Source :heavy_check_mark: <br /> Chat + Image Gen + Video Gen :heavy_check_mark: <br /> 25+ Personas :heavy_check_mark: <br /> Model Manager :heavy_check_mark: <br /> Dark/Light Mode :heavy_check_mark: <br /> | npm |
 
 ## Mobile Apps
 
