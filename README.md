@@ -58,6 +58,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Chatbox](https://github.com/Bin-Huang/Chatbox)                                      |                                                                                                                                  |
 | [WinForm Ollama Copilot](https://github.com/tgraupmann/WinForm_Ollama_Copilot)       |                                                                                                                                  |
 | [Nosia](https://github.com/nosia-ai/nosia)                                           |                                                                                                                                  |
+| [Elvean](https://elvean.app)                                                          | Native AI workspace for macOS with agentic tools, MCP servers, interactive charts, Apple Maps, Calendar, and WeatherKit integration. | Download |
 
 ## Mobile Apps
 
