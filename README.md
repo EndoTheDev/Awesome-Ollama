@@ -58,6 +58,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Chatbox](https://github.com/Bin-Huang/Chatbox)                                      |                                                                                                                                  |
 | [WinForm Ollama Copilot](https://github.com/tgraupmann/WinForm_Ollama_Copilot)       |                                                                                                                                  |
 | [Nosia](https://github.com/nosia-ai/nosia)                                           |                                                                                                                                  |
+| [Agentic Workflow (AWFlow)](https://awflow.io)                                           | AI-powered browser extension to automate web tasks, extract data, and run workflows directly in your browser.                                                                                                                                 | [Chrome extension](https://chromewebstore.google.com/detail/agentic-workflow/linlkeaipfpnhddjkpcbmldionajfifa?utm_source=item-share-cb)
 
 ## Mobile Apps
 
