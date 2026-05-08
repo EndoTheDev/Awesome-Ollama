@@ -110,3 +110,5 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [LangChain.dart Ollama](https://pub.dev/packages/langchain_ollama) | Ollama integration for LangChain.dart| pub.dev |
 
 ## Extensions & Plugins
+
+- [CrustAI](https://github.com/DaveSimoes/CrustAI) - Private, local-first AI assistant powered by Ollama with Telegram, WhatsApp, Discord and Slack integration. Runs 100% locally with no cloud dependency.
