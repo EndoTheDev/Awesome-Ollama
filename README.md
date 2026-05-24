@@ -15,6 +15,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
   - [Package Manager](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#package-manager)
   - [Libraries](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#libraries)
   - [Extensions & Plugins](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#extensions-plugins)
+  - [Domain-Specific Applications](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#domain-specific-applications)
 
 ## Web & Desktop UIs
 
@@ -84,6 +85,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 | Name/Link                                                           | Description                                                                                                               | Install Type              |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [ANARCHY](https://github.com/psfr4590-afk/ANARCHY) | Open Source :heavy_check_mark: <br /> Full local AI shell with persistent memory, vector search, skills/tool use, and multi-model routing. No API keys. | Python |
 | [bb7](https://github.com/drunkwcodes/bb7) | An ollama chat bot with voices. (TTS)  | Multi-platform Python
 | [gibber](https://github.com/maglore9900/gibber) | A speech-to-text (STT) & text-to-speech (TTS) wrapper for Ollama and OpenAI, with options for customization | Multi-platform Python |
 | [ollamamodelupdater](https://github.com/technovangelist/ollamamodelupdater) | Update ollama models to the latest version in the Library                                                         | Multi-platform downloads  |
@@ -110,3 +112,9 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [LangChain.dart Ollama](https://pub.dev/packages/langchain_ollama) | Ollama integration for LangChain.dart| pub.dev |
 
 ## Extensions & Plugins
+
+## Domain-Specific Applications
+
+| Name/Link | Description | Install Type |
+| --------- | ----------- | ------------ |
+| [Harmless-](https://github.com/psfr4590-afk/Harmless-) | Open Source :heavy_check_mark: <br /> Privacy-first harm reduction assistant — offline AI chat, Narcan/clinic finder, drug interaction checker, dose calculator. Zero cloud, zero accounts. | npm |
