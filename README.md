@@ -109,4 +109,5 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Ollama SDK for Dart](https://pub.dev/packages/ollama_dart) | Dart client for Ollama API | pub.dev |
 | [LangChain.dart Ollama](https://pub.dev/packages/langchain_ollama) | Ollama integration for LangChain.dart| pub.dev |
 
+- [ANARCHY](https://github.com/psfr4590-afk/ANARCHY) - Local AI shell powered by Ollama. Includes RAG search, LSP diagnostics, smart commit drafting, voice input, task scheduler, and community skills. Cross-platform one-liner install.
 ## Extensions & Plugins
