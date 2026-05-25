@@ -73,6 +73,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [AiLama](https://github.com/zeyoyt/ailama)                          | Open Source :heavy_check_mark: <br /> Discord User App :heavy_check_mark: <br /> Multi Function :heavy_check_mark: <br /> | Gradle+Java <br /> Docker |
 | [Cloud Seeder](https://github.com/ipv6rslimited/cloudseeder)        | One-click deployment and maintenance suite for Ollama and OpenWebUI with external IP                                      | Multi-platform downloads  | 
 | [vnc-m](https://github.com/jake83741/vnc-lm)                        | A Discord bot with support for model downloads, parameter adjustments, conversation branching, and prompt refinement.                   | Docker <br> NPM  |
+| [dictate](https://github.com/lewiswigmore/macOS-dictate)            | Privacy-first voice typing for macOS. Local Whisper ASR with optional Ollama cleanup. Open Source :heavy_check_mark: <br /> Menu-bar App :heavy_check_mark: | macOS source install |
 
 ## Model Evaluation and Testing Tools
 
