@@ -79,6 +79,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | Name/Link                                                           | Description                                                                                                          | Install Type             |
 | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------ |
 | [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search) | Open Source :heavy_check_mark: <br /> Desktop App :heavy_check_mark: <br /> Multi Function :heavy_check_mark: <br /> | Multi-platform downloads |
+| [Prompter](https://github.com/whonixnetworks/prompter) | Multi-model comparison, 20-test benchmark battery, Council/Tribunal debate modes for Ollama <br /> Open Source :heavy_check_mark: | Multi-platform Python     |
 
 ## Terminal
 
@@ -90,6 +91,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [osync](https://github.com/mann1x/osync/)        | Copy local Ollama models to any accessible remote Ollama instance, C# .NET 8 <br /> Open Source :heavy_check_mark: <br /> Windows :heavy_check_mark: <br /> macOS :heavy_check_mark: <br /> Linux x64/arm64 :heavy_check_mark: | Multi-platform downloads  |
 | [ollamarsync](https://github.com/mann1x/ollamarsync/)        | Copy local Ollama models to any accessible remote Ollama instance <br /> Open Source :heavy_check_mark:                          | Multi-platform Python     |
 | [shell-ask](https://github.com/egoist/shell-ask)        | Ask LLM directly from your terminal <br /> Open Source :heavy_check_mark:  <br /> Multi Function :heavy_check_mark:                   | Multi-platform downloads  |
+| [Prompter](https://github.com/whonixnetworks/prompter)   | Multi-model comparison, benchmarking, and evaluation TUI for Ollama <br /> Open Source :heavy_check_mark: <br /> Multi Function :heavy_check_mark: | Multi-platform Python     |
 
 ## Databases
 
