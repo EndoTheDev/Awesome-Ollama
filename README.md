@@ -58,6 +58,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Chatbox](https://github.com/Bin-Huang/Chatbox)                                      |                                                                                                                                  |
 | [WinForm Ollama Copilot](https://github.com/tgraupmann/WinForm_Ollama_Copilot)       |                                                                                                                                  |
 | [Nosia](https://github.com/nosia-ai/nosia)                                           |                                                                                                                                  |
+| [ToolPiper](https://modelpiper.com/toolpiper) | Mac OS native :heavy_check_mark: <br /> Voice & Vision :heavy_check_mark: <br /> Multi Model Chats :heavy_check_mark: <br /> Pipelines :heavy_check_mark: <br /> MCP Tools :heavy_check_mark: <br /> | Mac OS Native |
 
 ## Mobile Apps
 
