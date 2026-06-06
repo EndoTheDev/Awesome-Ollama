@@ -110,3 +110,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [LangChain.dart Ollama](https://pub.dev/packages/langchain_ollama) | Ollama integration for LangChain.dart| pub.dev |
 
 ## Extensions & Plugins
+
+| Name/Link                                                           | Description                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | Trust scoring and x402 payment verification for AI agents on Solana. Free: `resolve_agent`, `score_agent`, `preflight_check`. Paid: `get_trust_receipt` (HTTP 402, USDC). Zero-install MCP: `https://intel.twzrd.xyz/mcp` |
