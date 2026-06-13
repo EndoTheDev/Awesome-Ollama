@@ -90,6 +90,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [osync](https://github.com/mann1x/osync/)        | Copy local Ollama models to any accessible remote Ollama instance, C# .NET 8 <br /> Open Source :heavy_check_mark: <br /> Windows :heavy_check_mark: <br /> macOS :heavy_check_mark: <br /> Linux x64/arm64 :heavy_check_mark: | Multi-platform downloads  |
 | [ollamarsync](https://github.com/mann1x/ollamarsync/)        | Copy local Ollama models to any accessible remote Ollama instance <br /> Open Source :heavy_check_mark:                          | Multi-platform Python     |
 | [shell-ask](https://github.com/egoist/shell-ask)        | Ask LLM directly from your terminal <br /> Open Source :heavy_check_mark:  <br /> Multi Function :heavy_check_mark:                   | Multi-platform downloads  |
+| [Sifty](https://github.com/Vortrix5/sifty)        | Windows maintenance CLI/TUI with an optional local assistant: ask what is safe to clean and it explains, with the model running on your own Ollama. It only ever sees file metadata, never contents, and never deletes anything itself. <br /> Open Source :heavy_check_mark: <br /> Windows :heavy_check_mark: | Windows, Python |
 
 ## Databases
 
