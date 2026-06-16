@@ -58,6 +58,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Chatbox](https://github.com/Bin-Huang/Chatbox)                                      |                                                                                                                                  |
 | [WinForm Ollama Copilot](https://github.com/tgraupmann/WinForm_Ollama_Copilot)       |                                                                                                                                  |
 | [Nosia](https://github.com/nosia-ai/nosia)                                           |                                                                                                                                  |
+| [CapyBro](https://github.com/phantasmat2018/capy-bro)                                | Open Source :heavy_check_mark: <br /> Windows global-hotkey text rewriting :heavy_check_mark: <br /> Local via Ollama :heavy_check_mark: <br /> | [Website](https://capybro.app) <br /> [Microsoft Store](https://apps.microsoft.com/detail/9N73FHJTW3M7) <br /> Download |
 
 ## Mobile Apps
 
