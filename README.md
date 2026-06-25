@@ -129,6 +129,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 | Name/Link                                                           | Description                                                                                       | Install Type             |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------ |
+| [Local LLM Arena](https://github.com/sammy995/Local-LLM-Arena)      | Side-by-side comparison of local models with blind voting, an LLM-as-judge, and a private Elo leaderboard | Docker, Script           |
 | [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search) | Open Source :heavy_check_mark:, Desktop App :heavy_check_mark:, Multi Function :heavy_check_mark: | Multi-platform downloads |
 | [OMeter](https://github.com/EndoTheDev/OMeter)                      | Benchmark and compare Ollama models across local and cloud endpoints                              | python                   |
 
