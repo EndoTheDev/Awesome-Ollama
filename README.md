@@ -108,6 +108,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Cloud Seeder](https://github.com/ipv6rslimited/cloudseeder) | One-click deployment and maintenance suite for Ollama and OpenWebUI with external IP | Multi-platform downloads            |
 | [Dify.AI](https://github.com/langgenius/dify)                | Production-ready platform for agentic workflow development                           | [Website](https://dify.ai/), Docker |
 | [n8n](https://docs.n8n.io/)                                  | Workflow automation platform with AI integration                                     | Docker, npm                         |
+| [OpenAgentic](https://github.com/agentic-work/openagentic)   | Self-hosted agentic AIOps platform (chat + no-code Flows) with approval-gated, audit-logged tool calls over 9 built-in MCP servers; runs locally. Apache-2.0, zero telemetry. | Docker / Helm        |
 
 ## Notebooks
 
