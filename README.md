@@ -41,6 +41,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [AiLama](https://github.com/zeyoyt/ailama)                                  | Open Source :heavy_check_mark:, Discord User App :heavy_check_mark:, Multi Function :heavy_check_mark: | Gradle+Java, Docker |
 | [Amica](https://github.com/semperai/amica)                                  | Open-source interface for interactive 3D characters with voice synthesis and speech recognition        | npm                 |
 | [Cheshire Cat assistant framework](https://github.com/cheshire-cat-ai/core) | AI agent microservice                                                                                  | Docker              |
+| [CorvinOS](https://github.com/CorvinLabs/CorvinOS)                          | Agentic OS with EU AI Act & GDPR compliance built into the architecture — connects Ollama to Discord, Telegram, WhatsApp, Slack & Email       | pip                 |
 | [Hermes Agent](https://github.com/nousresearch/hermes-agent)                | Self-improving AI agent by Nous Research                                                               | Download            |
 | [Hermes Desktop](https://hermes-agent.nousresearch.com/)                    | Native AI assistant app by Nous Research                                                               | Download            |
 | [LobeHub](https://github.com/lobehub/lobehub)                               | Chief Agent Operator for 7×24 AI team orchestration                                                    | Download            |
