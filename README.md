@@ -131,6 +131,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------ |
 | [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search) | Open Source :heavy_check_mark:, Desktop App :heavy_check_mark:, Multi Function :heavy_check_mark: | Multi-platform downloads |
 | [OMeter](https://github.com/EndoTheDev/OMeter)                      | Benchmark and compare Ollama models across local and cloud endpoints                              | python                   |
+| [LLM Colosseum](https://github.com/asp67/llm-colosseum)             | A real-time RTS arena to evaluate LLM tool calling, format discipline, and latency under pressure.| Open Source✔️ HTML UI✔️ |
 
 ## Package Manager
 
