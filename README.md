@@ -26,6 +26,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Codex App](https://developers.openai.com/codex/quickstart/)                   | OpenAI desktop coding agent                                                                            | Download                 |
 | [Codex CLI](https://developers.openai.com/codex/cli/)                          | OpenAI terminal coding agent                                                                           | npm                      |
 | [Copilot CLI](https://github.com/features/copilot/cli/)                        | GitHub AI coding agent for the terminal                                                                | npm                      |
+| [DevAI](https://github.com/Riadh35/DevAi) | 100% local dev agent with chat, tool use (files, commands, web search), memory and skills | Download |
 | [Goose](https://goose-docs.ai/)                                                | Desktop coding agent by Block                                                                          | Download                 |
 | [Oh My Pi](https://omp.sh)                                                     | Terminal coding agent with IDE-style tools                                                             | Download                 |
 | [OpenCode](https://opencode.ai)                                                | Open-source terminal coding assistant                                                                  | npm                      |
