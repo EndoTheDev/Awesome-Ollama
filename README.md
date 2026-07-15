@@ -107,6 +107,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ----------------------------------- |
 | [Cloud Seeder](https://github.com/ipv6rslimited/cloudseeder) | One-click deployment and maintenance suite for Ollama and OpenWebUI with external IP | Multi-platform downloads            |
 | [Dify.AI](https://github.com/langgenius/dify)                | Production-ready platform for agentic workflow development                           | [Website](https://dify.ai/), Docker |
+| [Darkmoon](https://github.com/ASCIT31/Dark-Moon) | Autonomous AI penetration testing agent that orchestrates 80+ offensive security tools over MCP; supports local Ollama models | Python, Docker |
 | [n8n](https://docs.n8n.io/)                                  | Workflow automation platform with AI integration                                     | Docker, npm                         |
 
 ## Notebooks
