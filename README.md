@@ -100,6 +100,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | -------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------ |
 | [Enchanted](https://github.com/gluonfield/enchanted)           | Native macOS and iOS app :heavy_check_mark: | iOS :heavy_check_mark:, macOS :heavy_check_mark: |
 | [Maid](https://github.com/Mobile-Artificial-Intelligence/maid) | Open Source :heavy_check_mark:              | Android :heavy_check_mark:                       |
+| [Ollama AI Chat](https://github.com/chartmann1590/ollama-android-client) | Open source, on-device (LiteRT-LM) + remote inference, web sync :heavy_check_mark: | Android :heavy_check_mark: |
 
 ## Automation
 
