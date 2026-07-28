@@ -45,6 +45,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Hermes Desktop](https://hermes-agent.nousresearch.com/)                    | Native AI assistant app by Nous Research                                                               | Download            |
 | [LobeHub](https://github.com/lobehub/lobehub)                               | Chief Agent Operator for 7×24 AI team orchestration                                                    | Download            |
 | [OpenClaw](https://github.com/openclaw/openclaw)                            | Personal AI assistant for your devices                                                                 | Download            |
+| [Reply Better AI](https://github.com/dantnan/reply-better-ai) | Browser extension: improve writing and draft replies on any page, on-device or via a local Ollama server | Chrome / Firefox |
 
 ## IDEs & Editors
 
