@@ -45,6 +45,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Hermes Desktop](https://hermes-agent.nousresearch.com/)                    | Native AI assistant app by Nous Research                                                               | Download            |
 | [LobeHub](https://github.com/lobehub/lobehub)                               | Chief Agent Operator for 7×24 AI team orchestration                                                    | Download            |
 | [OpenClaw](https://github.com/openclaw/openclaw)                            | Personal AI assistant for your devices                                                                 | Download            |
+| [VoxFlow](https://github.com/KnigguKniggu-droid/voxflow) | Local, offline voice writing assistant: hold a hotkey, speak, and a local model writes it in your tone and types it in at your cursor. faster-whisper + Ollama, fully offline. | Download, Python |
 
 ## IDEs & Editors
 
