@@ -27,6 +27,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Codex CLI](https://developers.openai.com/codex/cli/)                          | OpenAI terminal coding agent                                                                           | npm                      |
 | [Copilot CLI](https://github.com/features/copilot/cli/)                        | GitHub AI coding agent for the terminal                                                                | npm                      |
 | [Goose](https://goose-docs.ai/)                                                | Desktop coding agent by Block                                                                          | Download                 |
+| [memcode](https://github.com/memcode-ai/memcode)                               | Terminal coding agent that remembers your repo (persistent .memcode memory)                            | Download                 |
 | [Oh My Pi](https://omp.sh)                                                     | Terminal coding agent with IDE-style tools                                                             | Download                 |
 | [OpenCode](https://opencode.ai)                                                | Open-source terminal coding assistant                                                                  | npm                      |
 | [Pool](https://github.com/poolsideai/pool)                                     | Enterprise terminal software agent                                                                     | Download                 |
