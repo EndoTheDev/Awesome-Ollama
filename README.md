@@ -11,6 +11,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
   - [Chat & RAG](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#chat--rag)
   - [Mobile Apps](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#mobile-apps)
   - [Automation](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#automation)
+  - [Audio & Transcription](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#audio--transcription)
   - [Notebooks](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#notebooks)
   - [Terminal](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#terminal)
   - [Model Evaluation and Testing Tools](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#model-evaluation-and-testing-tools)
@@ -108,6 +109,14 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Cloud Seeder](https://github.com/ipv6rslimited/cloudseeder) | One-click deployment and maintenance suite for Ollama and OpenWebUI with external IP | Multi-platform downloads            |
 | [Dify.AI](https://github.com/langgenius/dify)                | Production-ready platform for agentic workflow development                           | [Website](https://dify.ai/), Docker |
 | [n8n](https://docs.n8n.io/)                                  | Workflow automation platform with AI integration                                     | Docker, npm                         |
+
+## Audio & Transcription
+
+Tools that turn speech into text and post-process it with a local model.
+
+| Name/Link                                                | Description                                                                             | Install Type         |
+| -------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------- |
+| [AmicoScript](https://github.com/sim186/AmicoScript)     | Local audio and video transcription with speaker diarization, search and LLM summaries  | pip, Docker, Download |
 
 ## Notebooks
 
