@@ -106,6 +106,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | Name/Link                                                    | Description                                                                          | Install Type                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ----------------------------------- |
 | [Cloud Seeder](https://github.com/ipv6rslimited/cloudseeder) | One-click deployment and maintenance suite for Ollama and OpenWebUI with external IP | Multi-platform downloads            |
+| [CV Evaluator](https://github.com/taltara/HackerAgentRank) | Scores CVs against explainable hiring rubrics, with the evidence behind each score | npm, pip |
 | [Dify.AI](https://github.com/langgenius/dify)                | Production-ready platform for agentic workflow development                           | [Website](https://dify.ai/), Docker |
 | [n8n](https://docs.n8n.io/)                                  | Workflow automation platform with AI integration                                     | Docker, npm                         |
 
