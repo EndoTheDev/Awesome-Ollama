@@ -43,6 +43,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Cheshire Cat assistant framework](https://github.com/cheshire-cat-ai/core) | AI agent microservice                                                                                  | Docker              |
 | [Hermes Agent](https://github.com/nousresearch/hermes-agent)                | Self-improving AI agent by Nous Research                                                               | Download            |
 | [Hermes Desktop](https://hermes-agent.nousresearch.com/)                    | Native AI assistant app by Nous Research                                                               | Download            |
+| [LinguaPilot AI](https://getlinguapilot.com/)                               | Windows AI writing coach with multilingual correction, rewriting and explanations                      | Download            |
 | [LobeHub](https://github.com/lobehub/lobehub)                               | Chief Agent Operator for 7×24 AI team orchestration                                                    | Download            |
 | [OpenClaw](https://github.com/openclaw/openclaw)                            | Personal AI assistant for your devices                                                                 | Download            |
 
