@@ -108,6 +108,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Cloud Seeder](https://github.com/ipv6rslimited/cloudseeder) | One-click deployment and maintenance suite for Ollama and OpenWebUI with external IP | Multi-platform downloads            |
 | [Dify.AI](https://github.com/langgenius/dify)                | Production-ready platform for agentic workflow development                           | [Website](https://dify.ai/), Docker |
 | [n8n](https://docs.n8n.io/)                                  | Workflow automation platform with AI integration                                     | Docker, npm                         |
+| [ollama-loop-guard](https://github.com/dustinmoon78/ollama-loop-guard) | Proxy that detects infinite thinking loops in cloud models and interrupts + regenerates in-stream | Python, pip                         |
 
 ## Notebooks
 
