@@ -125,6 +125,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [ollamarsync](https://github.com/mann1x/ollamarsync/)                       | Copy local Ollama models to any accessible remote Ollama instance, Open Source :heavy_check_mark:                                                                                                      | Multi-platform Python    |
 | [osync](https://github.com/mann1x/osync/)                                   | Copy local Ollama models to any accessible remote Ollama instance, C# .NET 8, Open Source :heavy_check_mark:, Windows :heavy_check_mark:, macOS :heavy_check_mark:, Linux x64/arm64 :heavy_check_mark: | Multi-platform downloads |
 
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace with notes, tasks, and AI chat powered by Ollama. Plain Markdown storage.
 ## Model Evaluation and Testing Tools
 
 | Name/Link                                                           | Description                                                                                       | Install Type             |
