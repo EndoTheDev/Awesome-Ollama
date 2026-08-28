@@ -131,6 +131,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------ |
 | [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search) | Open Source :heavy_check_mark:, Desktop App :heavy_check_mark:, Multi Function :heavy_check_mark: | Multi-platform downloads |
 | [OMeter](https://github.com/EndoTheDev/OMeter)                      | Benchmark and compare Ollama models across local and cloud endpoints                              | python                   |
+| [Remuda](https://github.com/magna-nz/remuda)                        | Test and tune local models with a built-in Modelfile editor                                       | Homebrew (macOS)         |
 
 ## Package Manager
 
