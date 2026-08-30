@@ -108,6 +108,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Cloud Seeder](https://github.com/ipv6rslimited/cloudseeder) | One-click deployment and maintenance suite for Ollama and OpenWebUI with external IP | Multi-platform downloads            |
 | [Dify.AI](https://github.com/langgenius/dify)                | Production-ready platform for agentic workflow development                           | [Website](https://dify.ai/), Docker |
 | [n8n](https://docs.n8n.io/)                                  | Workflow automation platform with AI integration                                     | Docker, npm                         |
+| [AI Media Studio](https://github.com/HARSH-THAKAR/ai-media-studio) | Turns a topic into a narrated, subtitled vertical video using ComfyUI, Kokoro and FFmpeg | pip |
 
 ## Notebooks
 
