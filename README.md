@@ -98,6 +98,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 | Name/Link                                                      | Description                                 | Install Type                                     |
 | -------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------ |
+| [Conduck](https://github.com/GigaDuckAI/conduck)               | Native Apple app for self-hosted AI, voice and text :heavy_check_mark: | iOS :heavy_check_mark:, macOS :heavy_check_mark:, watchOS, CarPlay |
 | [Enchanted](https://github.com/gluonfield/enchanted)           | Native macOS and iOS app :heavy_check_mark: | iOS :heavy_check_mark:, macOS :heavy_check_mark: |
 | [Maid](https://github.com/Mobile-Artificial-Intelligence/maid) | Open Source :heavy_check_mark:              | Android :heavy_check_mark:                       |
 
