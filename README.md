@@ -124,6 +124,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [ollamamodelupdater](https://github.com/technovangelist/ollamamodelupdater) | Update ollama models to the latest version in the Library                                                                                                                                              | Multi-platform downloads |
 | [ollamarsync](https://github.com/mann1x/ollamarsync/)                       | Copy local Ollama models to any accessible remote Ollama instance, Open Source :heavy_check_mark:                                                                                                      | Multi-platform Python    |
 | [osync](https://github.com/mann1x/osync/)                                   | Copy local Ollama models to any accessible remote Ollama instance, C# .NET 8, Open Source :heavy_check_mark:, Windows :heavy_check_mark:, macOS :heavy_check_mark:, Linux x64/arm64 :heavy_check_mark: | Multi-platform downloads |
+| [bean](https://github.com/heenatrivedi321-max/bean)                          | Picks the right local model for your hardware, downloads it, and hands off to the app. Open Source :heavy_check_mark: | Multi-platform downloads |
 
 ## Model Evaluation and Testing Tools
 
