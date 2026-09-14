@@ -16,6 +16,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
   - [Model Evaluation and Testing Tools](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#model-evaluation-and-testing-tools)
   - [Package Manager](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#package-manager)
   - [Libraries](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#libraries)
+  - [Monitoring](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#monitoring)
 
 ## Coding Agents
 
@@ -145,3 +146,9 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [LangChain.dart Ollama](https://pub.dev/packages/langchain_ollama) | Ollama integration for LangChain.dart                                                                                                                                       | pub.dev      |
 | [Ollama SDK for .NET](https://github.com/tryAGI/Ollama)            | Open Source :heavy_check_mark:, Based on OpenAPI specification :heavy_check_mark:, From .Net Framework to .NET 8 including latest features like trimming :heavy_check_mark: | NuGet        |
 | [Ollama SDK for Dart](https://pub.dev/packages/ollama_dart)        | Dart client for Ollama API                                                                                                                                                  | pub.dev      |
+
+## Monitoring
+
+| Name/Link                                                           | Description                                                                                       | Install Type             |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------ |
+| [ollama-top](https://github.com/glueck-it/ollama-top) | Open Source :heavy_check_mark:The htop & nvtop for Ollama, Local LLMs, GPUs, Databases and Batch Pipelines (Zero Dependencies) | Multi-platform downloads |
