@@ -131,6 +131,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------ |
 | [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search) | Open Source :heavy_check_mark:, Desktop App :heavy_check_mark:, Multi Function :heavy_check_mark: | Multi-platform downloads |
 | [OMeter](https://github.com/EndoTheDev/OMeter)                      | Benchmark and compare Ollama models across local and cloud endpoints                              | python                   |
+| [mac-llm-calculator](https://github.com/bagdaer1/mac-llm-calculator) | Works out whether a model fits in a Mac's unified memory and how many tokens per second to expect, from chip bandwidth and quantization | python |
 
 ## Package Manager
 
