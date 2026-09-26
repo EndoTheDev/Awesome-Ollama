@@ -33,6 +33,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [QA-Pilot: Chat with Code Repository](https://github.com/reid41/QA-Pilot)      | Chat with GitHub repos using local or online LLMs                                                      | python, streamlit        |
 | [shell-ask](https://github.com/egoist/shell-ask)                               | Ask LLM directly from your terminal, Open Source :heavy_check_mark:, Multi Function :heavy_check_mark: | Multi-platform downloads |
 | [WinForm Ollama Copilot](https://github.com/tgraupmann/WinForm_Ollama_Copilot) | Windows Forms Ollama AI copilot application                                                            | Download                 |
+| [vixl](https://github.com/vixl-ai/vixl)                                        | Local-first desktop coding agent with BYOK and MCP                                                     | Download                 |
 
 ## Assistants
 
