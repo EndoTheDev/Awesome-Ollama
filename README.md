@@ -45,6 +45,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Hermes Desktop](https://hermes-agent.nousresearch.com/)                    | Native AI assistant app by Nous Research                                                               | Download            |
 | [LobeHub](https://github.com/lobehub/lobehub)                               | Chief Agent Operator for 7×24 AI team orchestration                                                    | Download            |
 | [OpenClaw](https://github.com/openclaw/openclaw)                            | Personal AI assistant for your devices                                                                 | Download            |
+| [FelixIAMinecraft](https://github.com/Muurrcc/FelixIAMinecraft)             | Local AI companion that plays Minecraft with you as a real player, with a live view of its reasoning   | PowerShell (Windows)|
 
 ## IDEs & Editors
 
