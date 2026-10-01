@@ -45,6 +45,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Hermes Desktop](https://hermes-agent.nousresearch.com/)                    | Native AI assistant app by Nous Research                                                               | Download            |
 | [LobeHub](https://github.com/lobehub/lobehub)                               | Chief Agent Operator for 7×24 AI team orchestration                                                    | Download            |
 | [OpenClaw](https://github.com/openclaw/openclaw)                            | Personal AI assistant for your devices                                                                 | Download            |
+| [PageGrok](https://www.pagegrok.org/local-ai-browser)                      | Chrome extension to summarize any webpage and ask follow-up questions in a side panel | Chrome Web Store    |
 
 ## IDEs & Editors
 
