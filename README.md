@@ -108,6 +108,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Cloud Seeder](https://github.com/ipv6rslimited/cloudseeder) | One-click deployment and maintenance suite for Ollama and OpenWebUI with external IP | Multi-platform downloads            |
 | [Dify.AI](https://github.com/langgenius/dify)                | Production-ready platform for agentic workflow development                           | [Website](https://dify.ai/), Docker |
 | [n8n](https://docs.n8n.io/)                                  | Workflow automation platform with AI integration                                     | Docker, npm                         |
+| [ANCHOR](https://github.com/LucasDantas2701/ANCHOR)          | Web automation from plain-language tasks: a local LLM plans, a heuristic clicks      | Python (git clone)                  |
 
 ## Notebooks
 
