@@ -21,6 +21,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 | Name/Link                                                                      | Description                                                                                            | Install Type             |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ------------------------ |
+| [agnt](https://mozzarellabio.github.io/agnt)                                   | AI coding agent for the terminal with parallel multi-agent teams, BYOK                                 | Download                 |
 | [Claude Code](https://code.claude.com/docs/en/overview)                        | Agentic coding tool by Anthropic                                                                       | Download                 |
 | [Cline CLI](https://docs.cline.bot/usage/cli-overview)                         | Autonomous coding agent for the terminal                                                               | npm                      |
 | [Codex App](https://developers.openai.com/codex/quickstart/)                   | OpenAI desktop coding agent                                                                            | Download                 |
