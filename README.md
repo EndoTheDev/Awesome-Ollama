@@ -28,6 +28,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Copilot CLI](https://github.com/features/copilot/cli/)                        | GitHub AI coding agent for the terminal                                                                | npm                      |
 | [Goose](https://goose-docs.ai/)                                                | Desktop coding agent by Block                                                                          | Download                 |
 | [Oh My Pi](https://omp.sh)                                                     | Terminal coding agent with IDE-style tools                                                             | Download                 |
+| [omnexx](https://github.com/yaegerbomb42/omnexx)                               | Long-running terminal coding agent that commits only what passes tests                                 | npm                      |
 | [OpenCode](https://opencode.ai)                                                | Open-source terminal coding assistant                                                                  | npm                      |
 | [Pool](https://github.com/poolsideai/pool)                                     | Enterprise terminal software agent                                                                     | Download                 |
 | [QA-Pilot: Chat with Code Repository](https://github.com/reid41/QA-Pilot)      | Chat with GitHub repos using local or online LLMs                                                      | python, streamlit        |
