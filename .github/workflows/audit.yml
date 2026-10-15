@@ -1,0 +1,34 @@
+name: maintenance-audit
+
+on:
+  schedule:
+    - cron: "0 6 1 * *" # 1st of each month
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/audit.py README.md > report.md
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: open or update tracking issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TITLE: "Maintenance audit: stale or dead entries"
+        run: |
+          NUMBER=$(gh issue list --search "$TITLE in:title" --json number --jq '.[0].number')
+          BODY=$(cat report.md)
+          if [ -n "$NUMBER" ]; then
+            gh issue comment "$NUMBER" --body "$BODY"
+          else
+            gh issue create --title "$TITLE" --body "$BODY"
+          fi
