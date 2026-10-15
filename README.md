@@ -33,7 +33,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | Name/Link                                                                    | Description                                                                                      | Install   | License      |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------- | ------------ |
 | [Amica](https://github.com/semperai/amica)                                   | Open-source interface for interactive 3D characters with voice synthesis and speech recognition  | npm       | MIT          |
-| [Cheshire Cat assistant framework](https://github.com/cheshire-cat-ai/core)  | AI agent microservice                                                                            | Docker    | GPL-3.0      |
+| [Cheshire Cat assistant framework](https://github.com/cheshire-cat-ai/core)  | Extensible open-source AI agent framework                                                        | Docker    | GPL-3.0      |
 | [Hermes Agent](https://github.com/nousresearch/hermes-agent)                 | Self-improving AI agent by Nous Research                                                         | Download  | MIT          |
 | [Hermes Desktop](https://hermes-agent.nousresearch.com/)                     | Native AI assistant app by Nous Research                                                         | Download  | Proprietary  |
 | [LobeHub](https://github.com/lobehub/lobehub)                                | Chief Agent Operator for 7×24 AI team orchestration                                              | Download  | Custom       |
@@ -48,30 +48,30 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [MindMac](https://mindmac.app/)                    | Native macOS ChatGPT client with inline mode and prompt templates  | Download     | Proprietary  |
 | [VS Code](https://github.com/microsoft/vscode)     | VS Code with Copilot Chat + Ollama                                 | Download     | MIT          |
 | [Xcode](https://developer.apple.com/xcode/)        | Xcode AI integration                                               | Download     | Proprietary  |
-| [Zed](https://github.com/zed-industries/zed)       | Zed editor AI integration                                          | Download     | GPL-3.0      |
+| [Zed](https://github.com/zed-industries/zed)       | Zed editor AI integration                                          | Download     | Apache-2.0   |
 
 ## Chat & RAG
 
-| Name/Link                                                                             | Description                                                    | Install                      | License      |
-| ------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------- | ------------ |
-| [big-AGI](https://github.com/enricoros/big-AGI)                                       | AI suite with personas, multi-model chats, and code execution  | npm                          | MIT          |
-| [BionicGPT](https://github.com/bionic-gpt/bionic-gpt)                                 | On-premise ChatGPT alternative with data confidentiality       | Docker, Download             | Apache-2.0   |
-| [chat: chat web app for teams](https://github.com/swuecho/chat)                       | Chat web app for teams with user management and rate limits    | Docker                       | MIT          |
-| [Chatbox](https://github.com/chatboxai/chatbox)                                       | Powerful AI client                                             | Download                     | GPL-3.0      |
-| [ChatOllama](https://github.com/sugarforever/chat-ollama)                             | Open-source AI chatbot for private language model chat         | npm                          | Custom       |
-| [HammerAI](https://www.hammerai.com/desktop)                                          | Offline AI character chat powered by Ollama and Llama.cpp      | Download                     | Proprietary  |
-| [HTML UI](https://github.com/ollama-ui/ollama-ui)                                     | Simple HTML UI for Ollama                                      | Download, Browser extension  | MIT          |
-| [LibreChat](https://github.com/danny-avila/LibreChat)                                 | Multi-provider ChatGPT clone with agents, MCP, and presets     | Docker, npm                  | MIT          |
-| [LLM-X](https://github.com/mrdjohnson/llm-x)                                          | Works without installing, Image To text                        | Download, npm                | MIT          |
-| [Lollms-Webui](https://github.com/ParisNeo/lollms-webui)                              | Text to image, Text to video, Text to music                    | Download                     | Apache-2.0   |
-| [Minimalistic React UI for Ollama Models](https://github.com/richawo/minimal-llm-ui)  | Minimalistic offline UI for Ollama LMs                         | npm                          | MIT          |
-| [Msty](https://msty.ai/)                                                              | Private AI workspace and autonomous AI agent platform          | Download                     | Proprietary  |
-| [Nosia](https://github.com/dilolabs/nosia)                                            | Self-hosted AI RAG + MCP platform                              | Docker                       | MIT          |
-| [Ollama RAG Chatbot](https://github.com/datvodinh/rag-chatbot)                        | Chat with multiple PDFs locally                                | Docker                       | Apache-2.0   |
-| [Onyx](https://github.com/onyx-dot-app/onyx)                                          | Self-hostable Chat UI for Ollama                               | Docker                       | Custom       |
-| [Open Webui](https://github.com/open-webui/open-webui)                                | Image To text, Multi Model Chats                               | Docker, npm                  | Custom       |
-| [RAGFlow](https://github.com/infiniflow/ragflow)                                      | Open-source RAG engine with agentic retrieval                  | Docker                       | Apache-2.0   |
-| [Typescript UI](https://github.com/ollama-interface/Ollama-Gui)                       | GUI interface for Ollama                                       | npm                          | MIT          |
+| Name/Link                                                                             | Description                                                     | Install                      | License      |
+| ------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------- | ------------ |
+| [big-AGI](https://github.com/enricoros/big-AGI)                                       | AI suite with personas, multi-model chats, and code execution   | npm                          | MIT          |
+| [BionicGPT](https://github.com/bionic-gpt/bionic-gpt)                                 | On-premise ChatGPT alternative with data confidentiality        | Docker, Download             | Apache-2.0   |
+| [chat: chat web app for teams](https://github.com/swuecho/chat)                       | Chat web app for teams with user management and rate limits     | Docker                       | MIT          |
+| [Chatbox](https://github.com/chatboxai/chatbox)                                       | Desktop and mobile AI chat client                               | Download                     | GPL-3.0      |
+| [ChatOllama](https://github.com/sugarforever/chat-ollama)                             | Open-source AI chatbot for private language model chat          | npm                          | Custom       |
+| [HammerAI](https://www.hammerai.com/desktop)                                          | Offline AI character chat powered by Ollama and Llama.cpp       | Download                     | Proprietary  |
+| [HTML UI](https://github.com/ollama-ui/ollama-ui)                                     | Simple HTML UI for Ollama                                       | Download, Browser extension  | MIT          |
+| [LibreChat](https://github.com/danny-avila/LibreChat)                                 | Multi-provider ChatGPT clone with agents, MCP, and presets      | Docker, npm                  | MIT          |
+| [LLM-X](https://github.com/mrdjohnson/llm-x)                                          | Local LLM web UI that runs in the browser                       | Download, npm                | MIT          |
+| [Lollms-Webui](https://github.com/ParisNeo/lollms-webui)                              | Web UI for local and remote LLMs with multimodal features       | Download                     | Apache-2.0   |
+| [Minimalistic React UI for Ollama Models](https://github.com/richawo/minimal-llm-ui)  | Minimalistic offline UI for Ollama LMs                          | npm                          | MIT          |
+| [Msty](https://msty.ai/)                                                              | Private AI workspace and autonomous AI agent platform           | Download                     | Proprietary  |
+| [Nosia](https://github.com/dilolabs/nosia)                                            | Self-hosted AI RAG + MCP platform                               | Docker                       | MIT          |
+| [Ollama RAG Chatbot](https://github.com/datvodinh/rag-chatbot)                        | Chat with multiple PDFs locally                                 | Docker                       | Apache-2.0   |
+| [Onyx](https://github.com/onyx-dot-app/onyx)                                          | Self-hostable Chat UI for Ollama                                | Docker                       | Custom       |
+| [Open Webui](https://github.com/open-webui/open-webui)                                | User-friendly web interface with chat, RAG and model management | Docker, npm                  | Custom       |
+| [RAGFlow](https://github.com/infiniflow/ragflow)                                      | Open-source RAG engine with agentic retrieval                   | Docker                       | Apache-2.0   |
+| [Typescript UI](https://github.com/ollama-interface/Ollama-Gui)                       | TypeScript web GUI for Ollama                                   | npm                          | MIT          |
 
 ## Mobile Apps
 
@@ -91,14 +91,13 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 | Name/Link                                              | Description                                                                                                    | Install   | License  |
 | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | --------- | -------- |
-| [ollamarsync](https://github.com/mann1x/ollamarsync/)  | Copy local Ollama models to any accessible remote Ollama instance                                              | pip       | MIT      |
 | [osync](https://github.com/mann1x/osync/)              | Copy local Ollama models to any accessible remote Ollama instance, C# .NET 8, Windows, macOS, Linux x64/arm64  | Download  | MIT      |
 
 ## Model Evaluation and Testing Tools
 
 | Name/Link                                                            | Description                                                           | Install   | License  |
 | -------------------------------------------------------------------- | --------------------------------------------------------------------- | --------- | -------- |
-| [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search)  | Desktop App, Multi Function                                           | Download  | MIT      |
+| [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search)  | Desktop app to evaluate and compare LLM models                        | Download  | MIT      |
 | [OMeter](https://github.com/EndoTheDev/OMeter)                       | Benchmark and compare Ollama models across local and cloud endpoints  | pip       | MIT      |
 
 ## Libraries
@@ -109,6 +108,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Ollama SDK for .NET](https://github.com/tryAGI/Ollama)                 | Based on OpenAPI specification, From .Net Framework to .NET 8 including latest features like trimming  | NuGet    | MIT         |
 | [Ollama SDK for Dart](https://github.com/davidmigloz/ai_clients_dart)   | Dart client for Ollama API                                                                             | pub      | MIT         |
 | [marimo](https://github.com/marimo-team/marimo)                         | Interactive computing environment with Ollama support                                                  | pip      | Apache-2.0  |
+
 
 
 
