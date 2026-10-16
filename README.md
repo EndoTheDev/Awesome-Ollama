@@ -13,6 +13,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
   - [Automation](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#automation)
   - [Terminal](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#terminal)
   - [Model Evaluation and Testing Tools](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#model-evaluation-and-testing-tools)
+  - [Security](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#security)
   - [Libraries](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#libraries)
 
 ## Coding Agents
@@ -141,6 +142,14 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search)  | Desktop app to evaluate and compare LLM models                                                    | Download    | MIT        |
 | [OMeter](https://github.com/EndoTheDev/OMeter)                       | Benchmark and compare Ollama models across local and cloud endpoints                              | pip         | MIT        |
 | [Remuda](https://github.com/magna-nz/remuda)                         | Test and tune local models with a built-in Modelfile editor                                       | Homebrew    | MIT        |
+
+## Security
+
+Desktop security monitoring and advisory analysis.
+
+| Name/Link                                                   | Description                                                                                  | Install          | License |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------- | ------- |
+| [Sentinel Local](https://github.com/dibyapp/sentinel-local) | Desktop security beta with advisory review of anonymous protection and connection indicators | Download, Source | MIT     |
 
 ## Libraries
 
