@@ -141,6 +141,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search)  | Desktop app to evaluate and compare LLM models                                                    | Download    | MIT        |
 | [OMeter](https://github.com/EndoTheDev/OMeter)                       | Benchmark and compare Ollama models across local and cloud endpoints                              | pip         | MIT        |
 | [Remuda](https://github.com/magna-nz/remuda)                         | Test and tune local models with a built-in Modelfile editor                                       | Homebrew    | MIT        |
+| [InfraBench](https://github.com/SectorOneVentures/infrabench)        | Check how much GPU memory an Ollama model needs and compare hourly cloud GPU prices               | Web, Python | MIT        |
 
 ## Libraries
 
