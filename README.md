@@ -19,6 +19,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 | Name/Link                                                     | Description                                                                                       | Install   | License      |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------- | ------------ |
+| [Cascade](https://github.com/abhee235/cascade-ai)             | Desktop app builder: an agent plans, writes, builds and browser-tests an app from a prompt        | Download  | MIT          |
 | [Claude Code](https://code.claude.com/docs/en/overview)       | Agentic coding tool by Anthropic                                                                  | Download  | Proprietary  |
 | [Cline CLI](https://github.com/cline/cline)                   | Autonomous coding agent for the terminal                                                          | npm       | Apache-2.0   |
 | [Codex App](https://developers.openai.com/codex/quickstart/)  | OpenAI desktop coding agent                                                                       | Download  | Proprietary  |
