@@ -17,21 +17,22 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 ## Coding Agents
 
-| Name/Link                                                     | Description                                                                                       | Install   | License      |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------- | ------------ |
-| [Claude Code](https://code.claude.com/docs/en/overview)       | Agentic coding tool by Anthropic                                                                  | Download  | Proprietary  |
-| [Cline CLI](https://github.com/cline/cline)                   | Autonomous coding agent for the terminal                                                          | npm       | Apache-2.0   |
-| [Codex App](https://developers.openai.com/codex/quickstart/)  | OpenAI desktop coding agent                                                                       | Download  | Proprietary  |
-| [Codex CLI](https://developers.openai.com/codex/cli/)         | OpenAI terminal coding agent                                                                      | npm       | Proprietary  |
-| [Copilot CLI](https://github.com/github/copilot-cli)          | GitHub AI coding agent for the terminal                                                           | npm       | Proprietary  |
-| [Goose](https://github.com/block/goose)                       | Desktop coding agent by Block                                                                     | Download  | Apache-2.0   |
-| [Lifeboat](https://github.com/noah-thing/lifeboat)            | Coding agent failover: drops to a local model on rate limit, ban or outage, carrying your context | Source    | MIT          |
-| [memcode](https://github.com/memcode-ai/memcode)              | Terminal coding agent with persistent repo memory                                                 | Download  | MIT          |
-| [Oh My Pi](https://omp.sh)                                    | Terminal coding agent with IDE-style tools                                                        | Download  | Proprietary  |
-| [omnexx](https://github.com/yaegerbomb42/omnexx)              | Long-running terminal coding agent that commits only what passes tests                            | npm       | MIT          |
-| [OpenCode](https://github.com/sst/opencode)                   | Open-source terminal coding assistant                                                             | npm       | MIT          |
-| [POK-Agent](https://github.com/Acekorneya/POK-Agent)          | Windows computer-use and coding agent that turns repeated tasks into replayable skills            | Download  | Apache-2.0   |
-| [vixl](https://github.com/vixl-ai/vixl)                       | Local-first desktop coding agent with BYOK and MCP                                                | Download  | MIT          |
+| Name/Link                                                        | Description                                                                                               | Install   | License      |
+| ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------- | ------------ |
+| [Alchemist Coder](https://github.com/Alekla0126/alchemist-coder) | Desktop app that runs Claude Code and Codex on local models, with a live tree of every agent and subagent | Download  | AGPL-3.0     |
+| [Claude Code](https://code.claude.com/docs/en/overview)          | Agentic coding tool by Anthropic                                                                          | Download  | Proprietary  |
+| [Cline CLI](https://github.com/cline/cline)                      | Autonomous coding agent for the terminal                                                                  | npm       | Apache-2.0   |
+| [Codex App](https://developers.openai.com/codex/quickstart/)     | OpenAI desktop coding agent                                                                               | Download  | Proprietary  |
+| [Codex CLI](https://developers.openai.com/codex/cli/)            | OpenAI terminal coding agent                                                                              | npm       | Proprietary  |
+| [Copilot CLI](https://github.com/github/copilot-cli)             | GitHub AI coding agent for the terminal                                                                   | npm       | Proprietary  |
+| [Goose](https://github.com/block/goose)                          | Desktop coding agent by Block                                                                             | Download  | Apache-2.0   |
+| [Lifeboat](https://github.com/noah-thing/lifeboat)               | Coding agent failover: drops to a local model on rate limit, ban or outage, carrying your context         | Source    | MIT          |
+| [memcode](https://github.com/memcode-ai/memcode)                 | Terminal coding agent with persistent repo memory                                                         | Download  | MIT          |
+| [Oh My Pi](https://omp.sh)                                       | Terminal coding agent with IDE-style tools                                                                | Download  | Proprietary  |
+| [omnexx](https://github.com/yaegerbomb42/omnexx)                 | Long-running terminal coding agent that commits only what passes tests                                    | npm       | MIT          |
+| [OpenCode](https://github.com/sst/opencode)                      | Open-source terminal coding assistant                                                                     | npm       | MIT          |
+| [POK-Agent](https://github.com/Acekorneya/POK-Agent)             | Windows computer-use and coding agent that turns repeated tasks into replayable skills                    | Download  | Apache-2.0   |
+| [vixl](https://github.com/vixl-ai/vixl)                          | Local-first desktop coding agent with BYOK and MCP                                                        | Download  | MIT          |
 
 ## Assistants
 
@@ -151,6 +152,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Ollama SDK for .NET](https://github.com/tryAGI/Ollama)                 | Based on OpenAPI specification, From .Net Framework to .NET 8 including latest features like trimming  | NuGet    | MIT         |
 | [Ollama SDK for Dart](https://github.com/davidmigloz/ai_clients_dart)   | Dart client for Ollama API                                                                             | pub      | MIT         |
 | [PraisonAI](https://github.com/MervinPraison/PraisonAI)                 | Multi-agent framework with Ollama support                                                              | pip, npm | MIT         |
+
 
 
 
