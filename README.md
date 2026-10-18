@@ -111,6 +111,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [n8n](https://github.com/n8n-io/n8n)                                   | Workflow automation platform with AI integration                                                    | Docker, npm       | Custom     |
 | [n8n Ollama Desktop](https://github.com/kkomelin/n8n-ollama-desktop)   | Desktop app combining n8n and Ollama with a model-management UI                                     | Download          | Apache-2.0 |
 | [ollama-loop-guard](https://github.com/dustinmoon78/ollama-loop-guard) | Proxy that detects runaway thinking loops and interrupts with in-stream regeneration                | pip               | MIT        |
+| [Reelsaw](https://github.com/osbytes/reelsaw)                          | Long videos to captioned vertical shorts: local transcription, LLM moment selection, face tracking  | Docker            | AGPL-3.0   |
 | [Reply Better AI](https://github.com/dantnan/reply-better-ai)          | Browser extension to improve writing and draft replies on any page, on-device or via a local server | Browser extension | MIT        |
 | [VoxFlow](https://github.com/KnigguKniggu-droid/voxflow)               | Offline voice dictation: hold a hotkey, speak, a local model writes it at your cursor               | Download          | MIT        |
 
@@ -151,6 +152,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Ollama SDK for .NET](https://github.com/tryAGI/Ollama)                 | Based on OpenAPI specification, From .Net Framework to .NET 8 including latest features like trimming  | NuGet    | MIT         |
 | [Ollama SDK for Dart](https://github.com/davidmigloz/ai_clients_dart)   | Dart client for Ollama API                                                                             | pub      | MIT         |
 | [PraisonAI](https://github.com/MervinPraison/PraisonAI)                 | Multi-agent framework with Ollama support                                                              | pip, npm | MIT         |
+
 
 
 
