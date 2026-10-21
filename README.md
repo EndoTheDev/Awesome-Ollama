@@ -37,6 +37,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 | Name/Link                                                                    | Description                                                                                         | Install     | License      |
 | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------- | ------------ |
+| [AgenticOS](https://github.com/vstorm-co/agenticos)                          | Self-hosted workspace for company AI agents with budgets, approvals and an audit log                | Docker      | Apache-2.0   |
 | [Amica](https://github.com/semperai/amica)                                   | Open-source interface for interactive 3D characters with voice synthesis and speech recognition     | npm         | MIT          |
 | [Cheshire Cat assistant framework](https://github.com/cheshire-cat-ai/core)  | Extensible open-source AI agent framework                                                           | Docker      | GPL-3.0      |
 | [CorvinOS](https://github.com/CorvinLabs/CorvinOS)                           | Agentic OS connecting Ollama to Discord, Telegram, WhatsApp, Slack and email                        | pip         | Apache-2.0   |
