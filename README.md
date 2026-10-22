@@ -56,6 +56,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Cline](https://github.com/cline/cline)            | VS Code coding assistant                                           | Marketplace  | Apache-2.0   |
 | [JetBrains](https://www.jetbrains.com/idea/)       | JetBrains IDE AI integration                                       | Download     | Proprietary  |
 | [MindMac](https://mindmac.app/)                    | Native macOS ChatGPT client with inline mode and prompt templates  | Download     | Proprietary  |
+| [Volt](https://github.com/LeulAria/volt)          | Agent workspace built on the VS Code core with reviewable agent edits | Download     | MIT          |
 | [VS Code](https://github.com/microsoft/vscode)     | VS Code with Copilot Chat + Ollama                                 | Download     | MIT          |
 | [Xcode](https://developer.apple.com/xcode/)        | Xcode AI integration                                               | Download     | Proprietary  |
 | [Zed](https://github.com/zed-industries/zed)       | Zed editor AI integration                                          | Download     | Apache-2.0   |
