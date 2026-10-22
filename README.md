@@ -106,6 +106,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
 | [AmicoScript](https://github.com/sim186/AmicoScript)                   | Local audio and video transcription with speaker diarization, search and LLM summaries              | pip, Docker       | MIT        |
 | [Dify.AI](https://github.com/langgenius/dify)                          | Production-ready platform for agentic workflow development                                          | Download, Docker  | Custom     |
+| [EpochGo](https://github.com/AryanDinakaran/EpochGo) | Autonomous local-first AutoML platform powered by Ollama to benchmark, tune, and deploy ML models | pip, Source | MIT |
 | [iscooked](https://github.com/dinosoup1/iscooked)                      | Security scanner for Ollama and local AI setups: network exposure, API auth, file permissions       | Source            | MIT        |
 | [LocoPilot](https://github.com/bobfromarcher/LocoPilot)                | Vision, browser and desktop control for local LLMs                                                  | pip               | MIT        |
 | [n8n](https://github.com/n8n-io/n8n)                                   | Workflow automation platform with AI integration                                                    | Docker, npm       | Custom     |
