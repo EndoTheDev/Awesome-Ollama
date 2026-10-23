@@ -99,7 +99,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Conduck](https://github.com/GigaDuckAI/conduck)                | Native Apple apps for self-hosted AI, voice and text                                        | Download  | Apache-2.0  |
 | [Enchanted](https://github.com/gluonfield/enchanted)            | Native macOS and iOS app                                                                    | Download  | Apache-2.0  |
 | [Maid](https://github.com/Mobile-Artificial-Intelligence/maid)  | Cross-platform Flutter app for local llama.cpp and remote Ollama, OpenAI and Mistral models | Download  | MIT         |
-
+| [Tinariox](https://github.com/SevernyiVeter/tinariox-app)       | Android companion app with on-device voice, memory, and document support                    | Download  | Proprietary |
 ## Automation
 
 | Name/Link                                                              | Description                                                                                         | Install           | License    |
