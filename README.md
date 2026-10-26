@@ -47,6 +47,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Hivekeep](https://github.com/MarlBurroW/hivekeep)                           | Self-hosted platform running a team of specialized AI agents with persistent memory and a web UI    | Docker      | MIT          |
 | [LobeHub](https://github.com/lobehub/lobehub)                                | Chief Agent Operator for 7×24 AI team orchestration                                                 | Download    | Custom       |
 | [OpenClaw](https://github.com/openclaw/openclaw)                             | Personal AI assistant for your devices                                                              | Download    | MIT          |
+| [PlayPets](https://github.com/gaerae/playpets)                               | Desktop yard where pets chat with you and with each other, and react to coding agents               | Download    | MIT          |
 | [Talos](https://github.com/talos-kernel/talos)                               | Permission-gated agent where every tool call passes a deterministic policy kernel with an audit log | Download    | MIT          |
 
 ## IDEs & Editors
