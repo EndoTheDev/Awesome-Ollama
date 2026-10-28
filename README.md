@@ -102,17 +102,18 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 ## Automation
 
-| Name/Link                                                              | Description                                                                                         | Install           | License    |
-| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
-| [AmicoScript](https://github.com/sim186/AmicoScript)                   | Local audio and video transcription with speaker diarization, search and LLM summaries              | pip, Docker       | MIT        |
-| [Dify.AI](https://github.com/langgenius/dify)                          | Production-ready platform for agentic workflow development                                          | Download, Docker  | Custom     |
-| [iscooked](https://github.com/dinosoup1/iscooked)                      | Security scanner for Ollama and local AI setups: network exposure, API auth, file permissions       | Source            | MIT        |
-| [LocoPilot](https://github.com/bobfromarcher/LocoPilot)                | Vision, browser and desktop control for local LLMs                                                  | pip               | MIT        |
-| [n8n](https://github.com/n8n-io/n8n)                                   | Workflow automation platform with AI integration                                                    | Docker, npm       | Custom     |
-| [n8n Ollama Desktop](https://github.com/kkomelin/n8n-ollama-desktop)   | Desktop app combining n8n and Ollama with a model-management UI                                     | Download          | Apache-2.0 |
-| [ollama-loop-guard](https://github.com/dustinmoon78/ollama-loop-guard) | Proxy that detects runaway thinking loops and interrupts with in-stream regeneration                | pip               | MIT        |
-| [Reply Better AI](https://github.com/dantnan/reply-better-ai)          | Browser extension to improve writing and draft replies on any page, on-device or via a local server | Browser extension | MIT        |
-| [VoxFlow](https://github.com/KnigguKniggu-droid/voxflow)               | Offline voice dictation: hold a hotkey, speak, a local model writes it at your cursor               | Download          | MIT        |
+| Name/Link                                                              | Description                                                                                                     | Install           | License    |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
+| [AmicoScript](https://github.com/sim186/AmicoScript)                   | Local audio and video transcription with speaker diarization, search and LLM summaries                          | pip, Docker       | MIT        |
+| [Dify.AI](https://github.com/langgenius/dify)                          | Production-ready platform for agentic workflow development                                                      | Download, Docker  | Custom     |
+| [iscooked](https://github.com/dinosoup1/iscooked)                      | Security scanner for Ollama and local AI setups: network exposure, API auth, file permissions                   | Source            | MIT        |
+| [LocoPilot](https://github.com/bobfromarcher/LocoPilot)                | Vision, browser and desktop control for local LLMs                                                              | pip               | MIT        |
+| [n8n](https://github.com/n8n-io/n8n)                                   | Workflow automation platform with AI integration                                                                | Docker, npm       | Custom     |
+| [n8n Ollama Desktop](https://github.com/kkomelin/n8n-ollama-desktop)   | Desktop app combining n8n and Ollama with a model-management UI                                                 | Download          | Apache-2.0 |
+| [ollama-loop-guard](https://github.com/dustinmoon78/ollama-loop-guard) | Proxy that detects runaway thinking loops and interrupts with in-stream regeneration                            | pip               | MIT        |
+| [Reply Better AI](https://github.com/dantnan/reply-better-ai)          | Browser extension to improve writing and draft replies on any page, on-device or via a local server             | Browser extension | MIT        |
+| [Turno](https://github.com/eurafaeldecarvalho/turno)                   | Desktop app that runs Claude Code routines unattended on a cron schedule, on a local model or your subscription | Download          | MIT        |
+| [VoxFlow](https://github.com/KnigguKniggu-droid/voxflow)               | Offline voice dictation: hold a hotkey, speak, a local model writes it at your cursor                           | Download          | MIT        |
 
 ## Terminal
 
@@ -151,6 +152,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Ollama SDK for .NET](https://github.com/tryAGI/Ollama)                 | Based on OpenAPI specification, From .Net Framework to .NET 8 including latest features like trimming  | NuGet    | MIT         |
 | [Ollama SDK for Dart](https://github.com/davidmigloz/ai_clients_dart)   | Dart client for Ollama API                                                                             | pub      | MIT         |
 | [PraisonAI](https://github.com/MervinPraison/PraisonAI)                 | Multi-agent framework with Ollama support                                                              | pip, npm | MIT         |
+
 
 
 
