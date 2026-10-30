@@ -108,6 +108,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Dify.AI](https://github.com/langgenius/dify)                          | Production-ready platform for agentic workflow development                                          | Download, Docker  | Custom     |
 | [iscooked](https://github.com/dinosoup1/iscooked)                      | Security scanner for Ollama and local AI setups: network exposure, API auth, file permissions       | Source            | MIT        |
 | [LocoPilot](https://github.com/bobfromarcher/LocoPilot)                | Vision, browser and desktop control for local LLMs                                                  | pip               | MIT        |
+| [ANCHOR](https://github.com/LucasDantas2701/ANCHOR) | AI-powered web automation tool that plans and executes browser tasks and recovers from failed actions. | Source | Apache-2.0 |
 | [n8n](https://github.com/n8n-io/n8n)                                   | Workflow automation platform with AI integration                                                    | Docker, npm       | Custom     |
 | [n8n Ollama Desktop](https://github.com/kkomelin/n8n-ollama-desktop)   | Desktop app combining n8n and Ollama with a model-management UI                                     | Download          | Apache-2.0 |
 | [ollama-loop-guard](https://github.com/dustinmoon78/ollama-loop-guard) | Proxy that detects runaway thinking loops and interrupts with in-stream regeneration                | pip               | MIT        |
