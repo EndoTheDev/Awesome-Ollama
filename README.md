@@ -27,6 +27,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Goose](https://github.com/block/goose)                       | Desktop coding agent by Block                                                                     | Download  | Apache-2.0   |
 | [Lifeboat](https://github.com/noah-thing/lifeboat)            | Coding agent failover: drops to a local model on rate limit, ban or outage, carrying your context | Source    | MIT          |
 | [memcode](https://github.com/memcode-ai/memcode)              | Terminal coding agent with persistent repo memory                                                 | Download  | MIT          |
+| [Mercury CLI](https://github.com/Whq02/MercuryCLI)            | Terminal coding agent with parallel sessions and git-worktree crewmates                           | npm       | Apache-2.0   |
 | [Oh My Pi](https://omp.sh)                                    | Terminal coding agent with IDE-style tools                                                        | Download  | Proprietary  |
 | [omnexx](https://github.com/yaegerbomb42/omnexx)              | Long-running terminal coding agent that commits only what passes tests                            | npm       | MIT          |
 | [OpenCode](https://github.com/sst/opencode)                   | Open-source terminal coding assistant                                                             | npm       | MIT          |
