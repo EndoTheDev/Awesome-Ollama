@@ -146,6 +146,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 | Name/Link                                                               | Description                                                                                            | Install  | License     |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------- | ----------- |
+| [L.A.T.E.](https://github.com/ikaushik817-art/local-ai-tool-engine)     | Tool-calling engine for local and API models, with built-in math, web research, file search and memory.| Source   | MIT |
 | [LangChain.dart Ollama](https://github.com/davidmigloz/langchain_dart)  | Ollama integration for LangChain.dart                                                                  | pub      | MIT         |
 | [marimo](https://github.com/marimo-team/marimo)                         | Interactive computing environment with Ollama support                                                  | pip      | Apache-2.0  |
 | [Ollama SDK for .NET](https://github.com/tryAGI/Ollama)                 | Based on OpenAPI specification, From .Net Framework to .NET 8 including latest features like trimming  | NuGet    | MIT         |
