@@ -91,6 +91,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Second Brain](https://github.com/mshtawythug/second-brain)                           | Local-first knowledge base CLI with hybrid and GraphRAG search, plus MCP server   | pip, Docker                  | MIT          |
 | [ThoughtDAG](https://github.com/chenxiachan/thoughtdag)                               | Visual LLM workspace where graph edges control which nodes enter model context    | npm                          | MIT          |
 | [Typescript UI](https://github.com/ollama-interface/Ollama-Gui)                       | TypeScript web GUI for Ollama                                                     | npm                          | MIT          |
+| [Cognito](https://github.com/mert-ogul/Cognito)                                       | Local desktop chat with PDF, Word, and Markdown documents, with source citations  | Source                       | Apache-2.0   |
 
 ## Mobile Apps
 
