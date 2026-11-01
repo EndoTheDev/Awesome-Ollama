@@ -42,6 +42,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [CorvinOS](https://github.com/CorvinLabs/CorvinOS)                           | Agentic OS connecting Ollama to Discord, Telegram, WhatsApp, Slack and email                        | pip         | Apache-2.0   |
 | [CrustAI](https://github.com/DaveSimoes/CrustAI)                             | Local-first assistant with Telegram, WhatsApp, Discord and Slack integration, no cloud              | Docker, npm | MIT          |
 | [digibuddy](https://github.com/FabianGallardo-coder/digibuddy)               | Desktop pet that wanders your screen and chats with a local LLM                                     | Download    | MIT          |
+| [Grux](https://github.com/dotcomjack/grux)                                   | Native macOS agent for mail, calendar, meetings and an undoable shell, local model, no account      | Download    | MIT          |
 | [Hermes Agent](https://github.com/nousresearch/hermes-agent)                 | Self-improving AI agent by Nous Research                                                            | Download    | MIT          |
 | [Hermes Desktop](https://hermes-agent.nousresearch.com/)                     | Native AI assistant app by Nous Research                                                            | Download    | Proprietary  |
 | [Hivekeep](https://github.com/MarlBurroW/hivekeep)                           | Self-hosted platform running a team of specialized AI agents with persistent memory and a web UI    | Docker      | MIT          |
