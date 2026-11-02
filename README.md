@@ -112,6 +112,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [n8n Ollama Desktop](https://github.com/kkomelin/n8n-ollama-desktop)   | Desktop app combining n8n and Ollama with a model-management UI                                     | Download          | Apache-2.0 |
 | [ollama-loop-guard](https://github.com/dustinmoon78/ollama-loop-guard) | Proxy that detects runaway thinking loops and interrupts with in-stream regeneration                | pip               | MIT        |
 | [Reply Better AI](https://github.com/dantnan/reply-better-ai)          | Browser extension to improve writing and draft replies on any page, on-device or via a local server | Browser extension | MIT        |
+| [Topic Watch](https://github.com/0xzerolight/topic_watch)              | Self-hosted news monitor that uses an LLM to only notify on genuinely new information               | Docker            | GPL-3.0    |
 | [VoxFlow](https://github.com/KnigguKniggu-droid/voxflow)               | Offline voice dictation: hold a hotkey, speak, a local model writes it at your cursor               | Download          | MIT        |
 
 ## Terminal
