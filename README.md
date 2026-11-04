@@ -37,7 +37,8 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 | Name/Link                                                                    | Description                                                                                         | Install     | License      |
 | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------- | ------------ |
-| [Amica](https://github.com/semperai/amica)                                   | Open-source interface for interactive 3D characters with voice synthesis and speech recognition     | npm         | MIT          |
+| [Amica](https://github.com/semperai/amica)                                   | Open-source interface for interactive 3D characters with voice synthesis and speech recognition     | npm         | MIT   
+| [Atlas](https://github.com/c22hv8dcf7-alt/meet-atlas)                       | Offline local AI with persistent plain-file memory and cited answers from the user's documents      | Download    | Custom      ||
 | [Cheshire Cat assistant framework](https://github.com/cheshire-cat-ai/core)  | Extensible open-source AI agent framework                                                           | Docker      | GPL-3.0      |
 | [CorvinOS](https://github.com/CorvinLabs/CorvinOS)                           | Agentic OS connecting Ollama to Discord, Telegram, WhatsApp, Slack and email                        | pip         | Apache-2.0   |
 | [CrustAI](https://github.com/DaveSimoes/CrustAI)                             | Local-first assistant with Telegram, WhatsApp, Discord and Slack integration, no cloud              | Docker, npm | MIT          |
