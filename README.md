@@ -46,6 +46,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Hermes Desktop](https://hermes-agent.nousresearch.com/)                     | Native AI assistant app by Nous Research                                                            | Download    | Proprietary  |
 | [Hivekeep](https://github.com/MarlBurroW/hivekeep)                           | Self-hosted platform running a team of specialized AI agents with persistent memory and a web UI    | Docker      | MIT          |
 | [LobeHub](https://github.com/lobehub/lobehub)                                | Chief Agent Operator for 7×24 AI team orchestration                                                 | Download    | Custom       |
+| [Murmury](https://github.com/GianlucaBave/murmury)                           | Mac app that answers questions from your documents during video calls, with on-device transcription | Download    | GPL-3.0      |
 | [OpenClaw](https://github.com/openclaw/openclaw)                             | Personal AI assistant for your devices                                                              | Download    | MIT          |
 | [Talos](https://github.com/talos-kernel/talos)                               | Permission-gated agent where every tool call passes a deterministic policy kernel with an audit log | Download    | MIT          |
 
@@ -151,6 +152,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Ollama SDK for .NET](https://github.com/tryAGI/Ollama)                 | Based on OpenAPI specification, From .Net Framework to .NET 8 including latest features like trimming  | NuGet    | MIT         |
 | [Ollama SDK for Dart](https://github.com/davidmigloz/ai_clients_dart)   | Dart client for Ollama API                                                                             | pub      | MIT         |
 | [PraisonAI](https://github.com/MervinPraison/PraisonAI)                 | Multi-agent framework with Ollama support                                                              | pip, npm | MIT         |
+
 
 
 
