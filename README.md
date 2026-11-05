@@ -32,6 +32,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [OpenCode](https://github.com/sst/opencode)                   | Open-source terminal coding assistant                                                             | npm       | MIT          |
 | [POK-Agent](https://github.com/Acekorneya/POK-Agent)          | Windows computer-use and coding agent that turns repeated tasks into replayable skills            | Download  | Apache-2.0   |
 | [vixl](https://github.com/vixl-ai/vixl)                       | Local-first desktop coding agent with BYOK and MCP                                                | Download  | MIT          |
+| [pot-app-translate-plugin-ollama](https://github.com/DWAS888/pot-app-translate-plugin-ollama) | Local bidirectional zh↔en translation plugin for Pot, powered by Ollama + translategemma | Download | MIT |
 
 ## Assistants
 
