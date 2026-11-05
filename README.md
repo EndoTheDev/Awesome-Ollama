@@ -35,19 +35,20 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 ## Assistants
 
-| Name/Link                                                                    | Description                                                                                         | Install     | License      |
-| ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------- | ------------ |
-| [Amica](https://github.com/semperai/amica)                                   | Open-source interface for interactive 3D characters with voice synthesis and speech recognition     | npm         | MIT          |
-| [Cheshire Cat assistant framework](https://github.com/cheshire-cat-ai/core)  | Extensible open-source AI agent framework                                                           | Docker      | GPL-3.0      |
-| [CorvinOS](https://github.com/CorvinLabs/CorvinOS)                           | Agentic OS connecting Ollama to Discord, Telegram, WhatsApp, Slack and email                        | pip         | Apache-2.0   |
-| [CrustAI](https://github.com/DaveSimoes/CrustAI)                             | Local-first assistant with Telegram, WhatsApp, Discord and Slack integration, no cloud              | Docker, npm | MIT          |
-| [digibuddy](https://github.com/FabianGallardo-coder/digibuddy)               | Desktop pet that wanders your screen and chats with a local LLM                                     | Download    | MIT          |
-| [Hermes Agent](https://github.com/nousresearch/hermes-agent)                 | Self-improving AI agent by Nous Research                                                            | Download    | MIT          |
-| [Hermes Desktop](https://hermes-agent.nousresearch.com/)                     | Native AI assistant app by Nous Research                                                            | Download    | Proprietary  |
-| [Hivekeep](https://github.com/MarlBurroW/hivekeep)                           | Self-hosted platform running a team of specialized AI agents with persistent memory and a web UI    | Docker      | MIT          |
-| [LobeHub](https://github.com/lobehub/lobehub)                                | Chief Agent Operator for 7×24 AI team orchestration                                                 | Download    | Custom       |
-| [OpenClaw](https://github.com/openclaw/openclaw)                             | Personal AI assistant for your devices                                                              | Download    | MIT          |
-| [Talos](https://github.com/talos-kernel/talos)                               | Permission-gated agent where every tool call passes a deterministic policy kernel with an audit log | Download    | MIT          |
+| Name/Link                                                                                     | Description                                                                                         | Install     | License      |
+| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------- | ------------ |
+| [Amica](https://github.com/semperai/amica)                                                    | Open-source interface for interactive 3D characters with voice synthesis and speech recognition     | npm         | MIT          |
+| [Cheshire Cat assistant framework](https://github.com/cheshire-cat-ai/core)                   | Extensible open-source AI agent framework                                                           | Docker      | GPL-3.0      |
+| [CorvinOS](https://github.com/CorvinLabs/CorvinOS)                                            | Agentic OS connecting Ollama to Discord, Telegram, WhatsApp, Slack and email                        | pip         | Apache-2.0   |
+| [CrustAI](https://github.com/DaveSimoes/CrustAI)                                              | Local-first assistant with Telegram, WhatsApp, Discord and Slack integration, no cloud              | Docker, npm | MIT          |
+| [digibuddy](https://github.com/FabianGallardo-coder/digibuddy)                                | Desktop pet that wanders your screen and chats with a local LLM                                     | Download    | MIT          |
+| [Hermes Agent](https://github.com/nousresearch/hermes-agent)                                  | Self-improving AI agent by Nous Research                                                            | Download    | MIT          |
+| [Hermes Desktop](https://hermes-agent.nousresearch.com/)                                      | Native AI assistant app by Nous Research                                                            | Download    | Proprietary  |
+| [Hivekeep](https://github.com/MarlBurroW/hivekeep)                                            | Self-hosted platform running a team of specialized AI agents with persistent memory and a web UI    | Docker      | MIT          |
+| [LobeHub](https://github.com/lobehub/lobehub)                                                 | Chief Agent Operator for 7×24 AI team orchestration                                                 | Download    | Custom       |
+| [OpenClaw](https://github.com/openclaw/openclaw)                                              | Personal AI assistant for your devices                                                              | Download    | MIT          |
+| [Talos](https://github.com/talos-kernel/talos)                                                | Permission-gated agent where every tool call passes a deterministic policy kernel with an audit log | Download    | MIT          |
+| [pot-app-translate-plugin-ollama](https://github.com/DWAS888/pot-app-translate-plugin-ollama) | Local bidirectional zh↔en translation plugin for Pot, powered by Ollama + translategemma            | Download    | MIT          |
 
 ## IDEs & Editors
 
@@ -151,6 +152,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Ollama SDK for .NET](https://github.com/tryAGI/Ollama)                 | Based on OpenAPI specification, From .Net Framework to .NET 8 including latest features like trimming  | NuGet    | MIT         |
 | [Ollama SDK for Dart](https://github.com/davidmigloz/ai_clients_dart)   | Dart client for Ollama API                                                                             | pub      | MIT         |
 | [PraisonAI](https://github.com/MervinPraison/PraisonAI)                 | Multi-agent framework with Ollama support                                                              | pip, npm | MIT         |
+
 
 
 
