@@ -13,6 +13,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
   - [Automation](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#automation)
   - [Terminal](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#terminal)
   - [Model Evaluation and Testing Tools](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#model-evaluation-and-testing-tools)
+  - [Monitoring](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#monitoring)
   - [Libraries](https://github.com/EndoTheDev/Awesome-Ollama?tab=readme-ov-file#libraries)
 
 ## Coding Agents
@@ -141,6 +142,12 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search)  | Desktop app to evaluate and compare LLM models                                                    | Download    | MIT        |
 | [OMeter](https://github.com/EndoTheDev/OMeter)                       | Benchmark and compare Ollama models across local and cloud endpoints                              | pip         | MIT        |
 | [Remuda](https://github.com/magna-nz/remuda)                         | Test and tune local models with a built-in Modelfile editor                                       | Homebrew    | MIT        |
+
+## Monitoring
+
+| Name/Link                                          | Description                                                                                                      | Install  | License    |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
+| [AI Meter](https://github.com/dichiara19/ai-meter) | Windows 11 taskbar meter for loaded models, VRAM, context in use and requests in flight, next to cloud AI limits | Download | Apache-2.0 |
 
 ## Libraries
 
