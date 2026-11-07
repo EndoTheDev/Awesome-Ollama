@@ -1,3 +1,5 @@
+- [IdeaAI](https://github.com/DogusTech/ideaai) - 100% local autonomous AI engineer desktop application running via Ollama & Llama 3.2.
+
 # Awesome Ollama [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 a list of tools and frameworks you can use with [Ollama](https://github.com/ollama/ollama)
