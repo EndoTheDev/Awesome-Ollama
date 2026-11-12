@@ -132,15 +132,16 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 ## Model Evaluation and Testing Tools
 
-| Name/Link                                                            | Description                                                                                       | Install     | License    |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------- | ---------- |
-| [LLM Colosseum](https://github.com/asp67/llm-colosseum)              | Real-time RTS arena evaluating LLM tool calling, format discipline and latency                    | Source      | MIT        |
-| [LLMxRay](https://github.com/LogneBudo/llmxray)                      | Local observability UI: token streaming, prompt-cache measurement, logprob benchmarks             | npm, Docker | Apache-2.0 |
-| [Local LLM Arena](https://github.com/sammy995/Local-LLM-Arena)       | Side-by-side local model comparison with blind voting, LLM-as-judge and a private Elo leaderboard | Docker      | MIT        |
-| [mac-llm-calculator](https://github.com/bagdaer1/mac-llm-calculator) | Works out whether a model fits a Mac unified memory and expected tokens per second                | pip         | MIT        |
-| [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search)  | Desktop app to evaluate and compare LLM models                                                    | Download    | MIT        |
-| [OMeter](https://github.com/EndoTheDev/OMeter)                       | Benchmark and compare Ollama models across local and cloud endpoints                              | pip         | MIT        |
-| [Remuda](https://github.com/magna-nz/remuda)                         | Test and tune local models with a built-in Modelfile editor                                       | Homebrew    | MIT        |
+| Name/Link                                                            | Description                                                                                       | Install     | License     |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------- | ----------- |
+| [LLM Colosseum](https://github.com/asp67/llm-colosseum)              | Real-time RTS arena evaluating LLM tool calling, format discipline and latency                    | Source      | MIT         |
+| [LLMxRay](https://github.com/LogneBudo/llmxray)                      | Local observability UI: token streaming, prompt-cache measurement, logprob benchmarks             | npm, Docker | Apache-2.0  |
+| [Local LLM Arena](https://github.com/sammy995/Local-LLM-Arena)       | Side-by-side local model comparison with blind voting, LLM-as-judge and a private Elo leaderboard | Docker      | MIT         |
+| [mac-llm-calculator](https://github.com/bagdaer1/mac-llm-calculator) | Works out whether a model fits a Mac unified memory and expected tokens per second                | pip         | MIT         |
+| [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search)  | Desktop app to evaluate and compare LLM models                                                    | Download    | MIT         |
+| [OMeter](https://github.com/EndoTheDev/OMeter)                       | Benchmark and compare Ollama models across local and cloud endpoints                              | pip         | MIT         |
+| [Remuda](https://github.com/magna-nz/remuda)                         | Test and tune local models with a built-in Modelfile editor                                       | Homebrew    | MIT         |
+| [RigMatch](https://github.com/DaveEuson/RigMatch)                    | Benchmarks models on your own hardware and scores speed, answer quality and fit                   | Download    | Proprietary |
 
 ## Libraries
 
