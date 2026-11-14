@@ -134,6 +134,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 | Name/Link                                                            | Description                                                                                       | Install     | License    |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------- | ---------- |
+| [inference-vitals](https://github.com/urbanmorph/inference-vitals)   | Local dashboard: tokens per second, memory, swap, GPU heat and power on one timeline              | pip         | MIT        |
 | [LLM Colosseum](https://github.com/asp67/llm-colosseum)              | Real-time RTS arena evaluating LLM tool calling, format discipline and latency                    | Source      | MIT        |
 | [LLMxRay](https://github.com/LogneBudo/llmxray)                      | Local observability UI: token streaming, prompt-cache measurement, logprob benchmarks             | npm, Docker | Apache-2.0 |
 | [Local LLM Arena](https://github.com/sammy995/Local-LLM-Arena)       | Side-by-side local model comparison with blind voting, LLM-as-judge and a private Elo leaderboard | Docker      | MIT        |
