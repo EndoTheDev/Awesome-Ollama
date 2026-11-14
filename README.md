@@ -94,11 +94,12 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 ## Mobile Apps
 
-| Name/Link                                                       | Description                                                                                 | Install   | License     |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------- | ----------- |
-| [Conduck](https://github.com/GigaDuckAI/conduck)                | Native Apple apps for self-hosted AI, voice and text                                        | Download  | Apache-2.0  |
-| [Enchanted](https://github.com/gluonfield/enchanted)            | Native macOS and iOS app                                                                    | Download  | Apache-2.0  |
-| [Maid](https://github.com/Mobile-Artificial-Intelligence/maid)  | Cross-platform Flutter app for local llama.cpp and remote Ollama, OpenAI and Mistral models | Download  | MIT         |
+| Name/Link                                                       | Description                                                                                 | Install          | License     |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------- | ----------- |
+| [Conduck](https://github.com/GigaDuckAI/conduck)                | Native Apple apps for self-hosted AI, voice and text                                        | Download         | Apache-2.0  |
+| [Enchanted](https://github.com/gluonfield/enchanted)            | Native macOS and iOS app                                                                    | Download         | Apache-2.0  |
+| [ForgeMind](https://github.com/DIIIUA/ForgeMind)                | Native Android AI coding workspace with LAN discovery, shell, SFTP, browser and MCP tools   | Download, Source | GPL-3.0     |
+| [Maid](https://github.com/Mobile-Artificial-Intelligence/maid)  | Cross-platform Flutter app for local llama.cpp and remote Ollama, OpenAI and Mistral models | Download         | MIT         |
 
 ## Automation
 
@@ -151,6 +152,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Ollama SDK for .NET](https://github.com/tryAGI/Ollama)                 | Based on OpenAPI specification, From .Net Framework to .NET 8 including latest features like trimming  | NuGet    | MIT         |
 | [Ollama SDK for Dart](https://github.com/davidmigloz/ai_clients_dart)   | Dart client for Ollama API                                                                             | pub      | MIT         |
 | [PraisonAI](https://github.com/MervinPraison/PraisonAI)                 | Multi-agent framework with Ollama support                                                              | pip, npm | MIT         |
+
 
 
 
