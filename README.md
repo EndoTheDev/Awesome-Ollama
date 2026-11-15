@@ -45,6 +45,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Hermes Agent](https://github.com/nousresearch/hermes-agent)                 | Self-improving AI agent by Nous Research                                                            | Download    | MIT          |
 | [Hermes Desktop](https://hermes-agent.nousresearch.com/)                     | Native AI assistant app by Nous Research                                                            | Download    | Proprietary  |
 | [Hivekeep](https://github.com/MarlBurroW/hivekeep)                           | Self-hosted platform running a team of specialized AI agents with persistent memory and a web UI    | Docker      | MIT          |
+| [IELTS Prep](https://github.com/Luxshan2000/ielts-prep)                      | On-device IELTS practice app with a voice speaking examiner and band-score feedback on essays       | Download    | MIT          |
 | [LobeHub](https://github.com/lobehub/lobehub)                                | Chief Agent Operator for 7×24 AI team orchestration                                                 | Download    | Custom       |
 | [OpenClaw](https://github.com/openclaw/openclaw)                             | Personal AI assistant for your devices                                                              | Download    | MIT          |
 | [Talos](https://github.com/talos-kernel/talos)                               | Permission-gated agent where every tool call passes a deterministic policy kernel with an audit log | Download    | MIT          |
