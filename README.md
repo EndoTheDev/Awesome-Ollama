@@ -141,6 +141,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search)  | Desktop app to evaluate and compare LLM models                                                    | Download    | MIT        |
 | [OMeter](https://github.com/EndoTheDev/OMeter)                       | Benchmark and compare Ollama models across local and cloud endpoints                              | pip         | MIT        |
 | [Remuda](https://github.com/magna-nz/remuda)                         | Test and tune local models with a built-in Modelfile editor                                       | Homebrew    | MIT        |
+| [TokenBench](https://stigla610.github.io/ai-cost-engine/vram-electricity-calculator.html) | Calculate FP16/Q8/Q4 VRAM + KV-cache memory, home GPU electricity costs and API break-even | Web, Source | MIT        |
 
 ## Libraries
 
