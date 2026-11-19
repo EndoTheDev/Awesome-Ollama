@@ -64,6 +64,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 | Name/Link                                                                             | Description                                                                       | Install                      | License      |
 | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------- | ------------ |
+| [Athena](https://github.com/alaskanloosemoose-dotcom/athena-lattice-agent)            | Companion chat that paints its replies with local FLUX.2 on Macs                  | Source                       | MIT          |
 | [big-AGI](https://github.com/enricoros/big-AGI)                                       | AI suite with personas, multi-model chats, and code execution                     | npm                          | MIT          |
 | [BionicGPT](https://github.com/bionic-gpt/bionic-gpt)                                 | On-premise ChatGPT alternative with data confidentiality                          | Docker, Download             | Apache-2.0   |
 | [CapyBro](https://github.com/phantasmat2018/capy-bro)                                 | Windows global-hotkey text rewriting via local models                             | Download                     | MIT          |
