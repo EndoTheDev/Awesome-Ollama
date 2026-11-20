@@ -56,6 +56,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | Name/Link                                          | Description                                                        | Install      | License      |
 | -------------------------------------------------- | ------------------------------------------------------------------ | ------------ | ------------ |
 | [Cline](https://github.com/cline/cline)            | VS Code coding assistant                                           | Marketplace  | Apache-2.0   |
+| [Inferpal](https://github.com/EstaxNet/Inferpal)   | Visual Studio and VS Code coding agent with ghost-text completion  | Marketplace  | GPL-3.0      |
 | [JetBrains](https://www.jetbrains.com/idea/)       | JetBrains IDE AI integration                                       | Download     | Proprietary  |
 | [MindMac](https://mindmac.app/)                    | Native macOS ChatGPT client with inline mode and prompt templates  | Download     | Proprietary  |
 | [Volt](https://github.com/LeulAria/volt)           | Agentic workspace on the VS Code core with reviewable agent edits  | Download     | MIT          |
