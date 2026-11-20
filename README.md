@@ -88,6 +88,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Onyx](https://github.com/onyx-dot-app/onyx)                                          | Self-hostable Chat UI for Ollama                                                  | Docker                       | Custom       |
 | [Open Webui](https://github.com/open-webui/open-webui)                                | User-friendly web interface with chat, RAG and model management                   | Docker, npm                  | Custom       |
 | [RAGFlow](https://github.com/infiniflow/ragflow)                                      | Open-source RAG engine with agentic retrieval                                     | Docker                       | Apache-2.0   |
+| [RocketRide](https://github.com/rocketride-org/rocketride-server)                     | AI meta-harness with a C++ runtime to build and operate agents in production      | Docker, Marketplace, Source  | MIT          |
 | [Second Brain](https://github.com/mshtawythug/second-brain)                           | Local-first knowledge base CLI with hybrid and GraphRAG search, plus MCP server   | pip, Docker                  | MIT          |
 | [ThoughtDAG](https://github.com/chenxiachan/thoughtdag)                               | Visual LLM workspace where graph edges control which nodes enter model context    | npm                          | MIT          |
 | [Typescript UI](https://github.com/ollama-interface/Ollama-Gui)                       | TypeScript web GUI for Ollama                                                     | npm                          | MIT          |
@@ -151,6 +152,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Ollama SDK for .NET](https://github.com/tryAGI/Ollama)                 | Based on OpenAPI specification, From .Net Framework to .NET 8 including latest features like trimming  | NuGet    | MIT         |
 | [Ollama SDK for Dart](https://github.com/davidmigloz/ai_clients_dart)   | Dart client for Ollama API                                                                             | pub      | MIT         |
 | [PraisonAI](https://github.com/MervinPraison/PraisonAI)                 | Multi-agent framework with Ollama support                                                              | pip, npm | MIT         |
+
 
 
 
