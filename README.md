@@ -24,6 +24,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Codex App](https://developers.openai.com/codex/quickstart/)  | OpenAI desktop coding agent                                                                       | Download  | Proprietary  |
 | [Codex CLI](https://developers.openai.com/codex/cli/)         | OpenAI terminal coding agent                                                                      | npm       | Proprietary  |
 | [Copilot CLI](https://github.com/github/copilot-cli)          | GitHub AI coding agent for the terminal                                                           | npm       | Proprietary  |
+| [Draggy](https://github.com/Lucki74/draggy)                   | Windows desktop AI assistant and coding agent with undoable diffs and permission modes            | Download  | Apache-2.0   |
 | [Goose](https://github.com/block/goose)                       | Desktop coding agent by Block                                                                     | Download  | Apache-2.0   |
 | [Lifeboat](https://github.com/noah-thing/lifeboat)            | Coding agent failover: drops to a local model on rate limit, ban or outage, carrying your context | Source    | MIT          |
 | [memcode](https://github.com/memcode-ai/memcode)              | Terminal coding agent with persistent repo memory                                                 | Download  | MIT          |
