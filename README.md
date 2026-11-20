@@ -19,6 +19,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 | Name/Link                                                     | Description                                                                                       | Install   | License      |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------- | ------------ |
+| [Alchemist Coder](https://github.com/Alekla0126/alchemist-coder) | Desktop app that runs Claude Code and Codex on local models, with a live tree of every agent and subagent | Download  | AGPL-3.0     |
 | [Claude Code](https://code.claude.com/docs/en/overview)       | Agentic coding tool by Anthropic                                                                  | Download  | Proprietary  |
 | [Cline CLI](https://github.com/cline/cline)                   | Autonomous coding agent for the terminal                                                          | npm       | Apache-2.0   |
 | [Codex App](https://developers.openai.com/codex/quickstart/)  | OpenAI desktop coding agent                                                                       | Download  | Proprietary  |
