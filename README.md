@@ -170,6 +170,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 | Name/Link                                                               | Description                                                                                            | Install  | License     |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------- | ----------- |
+| [CriogenAI](https://github.com/VARMAMASTER/criogenai)                   | AI agent framework on a Rust engine for Python and TypeScript, with human approval and durable runs    | pip, npm | MIT         |
 | [LangChain.dart Ollama](https://github.com/davidmigloz/langchain_dart)  | Ollama integration for LangChain.dart                                                                  | pub      | MIT         |
 | [marimo](https://github.com/marimo-team/marimo)                         | Interactive computing environment with Ollama support                                                  | pip      | Apache-2.0  |
 | [Ollama SDK for .NET](https://github.com/tryAGI/Ollama)                 | Based on OpenAPI specification, From .Net Framework to .NET 8 including latest features like trimming  | NuGet    | MIT         |
