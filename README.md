@@ -31,6 +31,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [memcode](https://github.com/memcode-ai/memcode)              | Terminal coding agent with persistent repo memory                                                 | Download  | MIT          |
 | [Mercury CLI](https://github.com/Whq02/MercuryCLI)            | Terminal coding agent with parallel sessions and git-worktree crewmates                           | npm       | Apache-2.0   |
 | [Oh My Pi](https://omp.sh)                                    | Terminal coding agent with IDE-style tools                                                        | Download  | Proprietary  |
+| [Olympus Coder](https://github.com/martianacademy/olympus-coder) | Open-source desktop workbench and headless VPS server for Ollama, Claude Code, Codex, and 18+ ACP coding agents with shared memory and parallel sub-sessions | Download | Apache-2.0 |
 | [omnexx](https://github.com/yaegerbomb42/omnexx)              | Long-running terminal coding agent that commits only what passes tests                            | npm       | MIT          |
 | [OpenCode](https://github.com/sst/opencode)                   | Open-source terminal coding assistant                                                             | npm       | MIT          |
 | [POK-Agent](https://github.com/Acekorneya/POK-Agent)          | Windows computer-use and coding agent that turns repeated tasks into replayable skills            | Download  | Apache-2.0   |
