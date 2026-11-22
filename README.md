@@ -34,6 +34,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [omnexx](https://github.com/yaegerbomb42/omnexx)              | Long-running terminal coding agent that commits only what passes tests                            | npm       | MIT          |
 | [OpenCode](https://github.com/sst/opencode)                   | Open-source terminal coding assistant                                                             | npm       | MIT          |
 | [POK-Agent](https://github.com/Acekorneya/POK-Agent)          | Windows computer-use and coding agent that turns repeated tasks into replayable skills            | Download  | Apache-2.0   |
+| [Twinbraid](https://github.com/aaryanbindage/twinbraid)       | Desktop app that runs two coding agents together in one project with a shared chat                | Download  | MIT          |
 | [vixl](https://github.com/vixl-ai/vixl)                       | Local-first desktop coding agent with BYOK and MCP                                                | Download  | MIT          |
 
 ## Assistants
