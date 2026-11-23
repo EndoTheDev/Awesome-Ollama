@@ -17,24 +17,25 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 ## Coding Agents
 
-| Name/Link                                                     | Description                                                                                       | Install   | License      |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------- | ------------ |
-| [Alchemist Coder](https://github.com/Alekla0126/alchemist-coder) | Desktop app that runs Claude Code and Codex on local models, with a live tree of every agent and subagent | Download  | AGPL-3.0     |
-| [Claude Code](https://code.claude.com/docs/en/overview)       | Agentic coding tool by Anthropic                                                                  | Download  | Proprietary  |
-| [Cline CLI](https://github.com/cline/cline)                   | Autonomous coding agent for the terminal                                                          | npm       | Apache-2.0   |
-| [Codex App](https://developers.openai.com/codex/quickstart/)  | OpenAI desktop coding agent                                                                       | Download  | Proprietary  |
-| [Codex CLI](https://developers.openai.com/codex/cli/)         | OpenAI terminal coding agent                                                                      | npm       | Proprietary  |
-| [Copilot CLI](https://github.com/github/copilot-cli)          | GitHub AI coding agent for the terminal                                                           | npm       | Proprietary  |
-| [Draggy](https://github.com/Lucki74/draggy)                   | Windows desktop AI assistant and coding agent with undoable diffs and permission modes            | Download  | Apache-2.0   |
-| [Goose](https://github.com/block/goose)                       | Desktop coding agent by Block                                                                     | Download  | Apache-2.0   |
-| [Lifeboat](https://github.com/noah-thing/lifeboat)            | Coding agent failover: drops to a local model on rate limit, ban or outage, carrying your context | Source    | MIT          |
-| [memcode](https://github.com/memcode-ai/memcode)              | Terminal coding agent with persistent repo memory                                                 | Download  | MIT          |
-| [Mercury CLI](https://github.com/Whq02/MercuryCLI)            | Terminal coding agent with parallel sessions and git-worktree crewmates                           | npm       | Apache-2.0   |
-| [Oh My Pi](https://omp.sh)                                    | Terminal coding agent with IDE-style tools                                                        | Download  | Proprietary  |
-| [omnexx](https://github.com/yaegerbomb42/omnexx)              | Long-running terminal coding agent that commits only what passes tests                            | npm       | MIT          |
-| [OpenCode](https://github.com/sst/opencode)                   | Open-source terminal coding assistant                                                             | npm       | MIT          |
-| [POK-Agent](https://github.com/Acekorneya/POK-Agent)          | Windows computer-use and coding agent that turns repeated tasks into replayable skills            | Download  | Apache-2.0   |
-| [vixl](https://github.com/vixl-ai/vixl)                       | Local-first desktop coding agent with BYOK and MCP                                                | Download  | MIT          |
+| Name/Link                                                        | Description                                                                                                 | Install   | License      |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------- | ------------ |
+| [Alchemist Coder](https://github.com/Alekla0126/alchemist-coder) | Desktop app that runs Claude Code and Codex on local models, with a live tree of every agent and subagent   | Download  | AGPL-3.0     |
+| [Claude Code](https://code.claude.com/docs/en/overview)          | Agentic coding tool by Anthropic                                                                            | Download  | Proprietary  |
+| [Cline CLI](https://github.com/cline/cline)                      | Autonomous coding agent for the terminal                                                                    | npm       | Apache-2.0   |
+| [Codex App](https://developers.openai.com/codex/quickstart/)     | OpenAI desktop coding agent                                                                                 | Download  | Proprietary  |
+| [Codex CLI](https://developers.openai.com/codex/cli/)            | OpenAI terminal coding agent                                                                                | npm       | Proprietary  |
+| [Copilot CLI](https://github.com/github/copilot-cli)             | GitHub AI coding agent for the terminal                                                                     | npm       | Proprietary  |
+| [Draggy](https://github.com/Lucki74/draggy)                      | Windows desktop AI assistant and coding agent with undoable diffs and permission modes                      | Download  | Apache-2.0   |
+| [Goose](https://github.com/block/goose)                          | Desktop coding agent by Block                                                                               | Download  | Apache-2.0   |
+| [Lifeboat](https://github.com/noah-thing/lifeboat)               | Coding agent failover: drops to a local model on rate limit, ban or outage, carrying your context           | Source    | MIT          |
+| [memcode](https://github.com/memcode-ai/memcode)                 | Terminal coding agent with persistent repo memory                                                           | Download  | MIT          |
+| [Mercury CLI](https://github.com/Whq02/MercuryCLI)               | Terminal coding agent with parallel sessions and git-worktree crewmates                                     | npm       | Apache-2.0   |
+| [Oh My Pi](https://omp.sh)                                       | Terminal coding agent with IDE-style tools                                                                  | Download  | Proprietary  |
+| [OMK](https://github.com/dmae97/omk)                             | Multi-agent coding CLI for the terminal: switch models mid-session, finish goals only when your test passes | npm       | MIT          |
+| [omnexx](https://github.com/yaegerbomb42/omnexx)                 | Long-running terminal coding agent that commits only what passes tests                                      | npm       | MIT          |
+| [OpenCode](https://github.com/sst/opencode)                      | Open-source terminal coding assistant                                                                       | npm       | MIT          |
+| [POK-Agent](https://github.com/Acekorneya/POK-Agent)             | Windows computer-use and coding agent that turns repeated tasks into replayable skills                      | Download  | Apache-2.0   |
+| [vixl](https://github.com/vixl-ai/vixl)                          | Local-first desktop coding agent with BYOK and MCP                                                          | Download  | MIT          |
 
 ## Assistants
 
