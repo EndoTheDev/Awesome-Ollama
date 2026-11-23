@@ -159,6 +159,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------- | ---------- |
 | [inference-vitals](https://github.com/urbanmorph/inference-vitals)   | Local dashboard: tokens per second, memory, swap, GPU heat and power on one timeline              | pip         | MIT        |
 | [LLM Colosseum](https://github.com/asp67/llm-colosseum)              | Real-time RTS arena evaluating LLM tool calling, format discipline and latency                    | Source      | MIT        |
+| [llm-cpu-bench](https://github.com/DanielChernov7/llm-cpu-bench)     | One-script benchmark of generation and prompt speed for 1B to 14B models on CPU-only servers      | Source      | MIT        |
 | [LLMxRay](https://github.com/LogneBudo/llmxray)                      | Local observability UI: prompt X-ray (cached, recomputed, silently cut), per-tool cost ledger, GPU map, tool-call fidelity, token streaming | npm, Docker | Apache-2.0 |
 | [Local LLM Arena](https://github.com/sammy995/Local-LLM-Arena)       | Side-by-side local model comparison with blind voting, LLM-as-judge and a private Elo leaderboard | Docker      | MIT        |
 | [mac-llm-calculator](https://github.com/bagdaer1/mac-llm-calculator) | Works out whether a model fits a Mac unified memory and expected tokens per second                | pip         | MIT        |
