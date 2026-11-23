@@ -61,16 +61,17 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 ## IDEs & Editors
 
-| Name/Link                                          | Description                                                        | Install      | License      |
-| -------------------------------------------------- | ------------------------------------------------------------------ | ------------ | ------------ |
-| [Cline](https://github.com/cline/cline)            | VS Code coding assistant                                           | Marketplace  | Apache-2.0   |
-| [Inferpal](https://github.com/EstaxNet/Inferpal)   | Visual Studio and VS Code coding agent with ghost-text completion  | Marketplace  | GPL-3.0      |
-| [JetBrains](https://www.jetbrains.com/idea/)       | JetBrains IDE AI integration                                       | Download     | Proprietary  |
-| [MindMac](https://mindmac.app/)                    | Native macOS ChatGPT client with inline mode and prompt templates  | Download     | Proprietary  |
-| [Volt](https://github.com/LeulAria/volt)           | Agentic workspace on the VS Code core with reviewable agent edits  | Download     | MIT          |
-| [VS Code](https://github.com/microsoft/vscode)     | VS Code with Copilot Chat + Ollama                                 | Download     | MIT          |
-| [Xcode](https://developer.apple.com/xcode/)        | Xcode AI integration                                               | Download     | Proprietary  |
-| [Zed](https://github.com/zed-industries/zed)       | Zed editor AI integration                                          | Download     | Apache-2.0   |
+| Name/Link                                                     | Description                                                                                                    | Install      | License      |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------ | ------------ |
+| [AI Code Review](https://puzaricloud.in/apps/ai-code-review/) | VS Code extension that reviews uncommitted changes with a local model and shows findings in the Problems panel | Marketplace  | Proprietary  |
+| [Cline](https://github.com/cline/cline)                       | VS Code coding assistant                                                                                       | Marketplace  | Apache-2.0   |
+| [Inferpal](https://github.com/EstaxNet/Inferpal)              | Visual Studio and VS Code coding agent with ghost-text completion                                              | Marketplace  | GPL-3.0      |
+| [JetBrains](https://www.jetbrains.com/idea/)                  | JetBrains IDE AI integration                                                                                   | Download     | Proprietary  |
+| [MindMac](https://mindmac.app/)                               | Native macOS ChatGPT client with inline mode and prompt templates                                              | Download     | Proprietary  |
+| [Volt](https://github.com/LeulAria/volt)                      | Agentic workspace on the VS Code core with reviewable agent edits                                              | Download     | MIT          |
+| [VS Code](https://github.com/microsoft/vscode)                | VS Code with Copilot Chat + Ollama                                                                             | Download     | MIT          |
+| [Xcode](https://developer.apple.com/xcode/)                   | Xcode AI integration                                                                                           | Download     | Proprietary  |
+| [Zed](https://github.com/zed-industries/zed)                  | Zed editor AI integration                                                                                      | Download     | Apache-2.0   |
 
 ## Chat & RAG
 
