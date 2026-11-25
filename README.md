@@ -143,6 +143,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------- | ---------- |
 | [bean](https://github.com/heenatrivedi321-max/bean)        | Picks the right local model for your hardware, downloads it, and hands off to the app                          | Download  | MIT        |
 | [lucinate](https://github.com/lucinate-ai/lucinate)        | Multi-backend terminal AI chat client for OpenAI-compatible APIs                                               | Download  | Apache-2.0 |
+| [Marea](https://github.com/indecenti/marea)                | Frees disk space from local models without deleting them; verified restore on open, pickle safety check        | Download  | MIT        |
 | [modelfit](https://github.com/Wecko-ai/modelfit)           | Detects your hardware and recommends the best local model that fits, with JSON output                          | npm       | MIT        |
 | [Nanocoder](https://github.com/Nano-Collective/nanocoder)  | Local-first terminal coding agent, bring your own model                                                        | npm       | MIT        |
 | [ollama-top](https://github.com/glueck-it/ollama-top)      | htop-style terminal UI for local models, GPUs and batch pipelines                                              | Download  | MIT        |
