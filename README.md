@@ -157,6 +157,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 | Name/Link                                                            | Description                                                                                       | Install     | License    |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------- | ---------- |
+| [EvalShift](https://github.com/evalshift/evalshift-cli)              | Runs the same test cases on two models and reports output and tool-call regressions               | pip         | Apache-2.0 |
 | [inference-vitals](https://github.com/urbanmorph/inference-vitals)   | Local dashboard: tokens per second, memory, swap, GPU heat and power on one timeline              | pip         | MIT        |
 | [LLM Colosseum](https://github.com/asp67/llm-colosseum)              | Real-time RTS arena evaluating LLM tool calling, format discipline and latency                    | Source      | MIT        |
 | [LLMxRay](https://github.com/LogneBudo/llmxray)                      | Local observability UI: prompt X-ray (cached, recomputed, silently cut), per-tool cost ledger, GPU map, tool-call fidelity, token streaming | npm, Docker | Apache-2.0 |
