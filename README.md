@@ -110,6 +110,8 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [ThoughtDAG](https://github.com/chenxiachan/thoughtdag)                               | Visual LLM workspace where graph edges control which nodes enter model context    | npm                          | MIT          |
 | [Typescript UI](https://github.com/ollama-interface/Ollama-Gui)                       | TypeScript web GUI for Ollama                                                     | npm                          | MIT          |
 
+| [ZHIXU](https://github.com/JoeJiang-927117/Super-Knowledge-Base) | Local-first AI knowledge compiler turning PDF/Office/MD folders into an auditable Markdown Wiki + Git + grounded Q&A | Download, npm, Docker | Apache-2.0 |
+
 ## Mobile Apps
 
 | Name/Link                                                       | Description                                                                                 | Install   | License     |
