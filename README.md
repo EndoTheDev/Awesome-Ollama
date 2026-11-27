@@ -142,6 +142,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | Name/Link                                                  | Description                                                                                                    | Install   | License    |
 | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------- | ---------- |
 | [bean](https://github.com/heenatrivedi321-max/bean)        | Picks the right local model for your hardware, downloads it, and hands off to the app                          | Download  | MIT        |
+| [llmsetup](https://github.com/catfish-1234/llmsetup)       | Picks, tunes and tests a local model for your hardware, then connects it to coding agents                      | pip       | Apache-2.0 |
 | [lucinate](https://github.com/lucinate-ai/lucinate)        | Multi-backend terminal AI chat client for OpenAI-compatible APIs                                               | Download  | Apache-2.0 |
 | [modelfit](https://github.com/Wecko-ai/modelfit)           | Detects your hardware and recommends the best local model that fits, with JSON output                          | npm       | MIT        |
 | [Nanocoder](https://github.com/Nano-Collective/nanocoder)  | Local-first terminal coding agent, bring your own model                                                        | npm       | MIT        |
