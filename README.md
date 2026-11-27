@@ -139,19 +139,20 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 ## Terminal
 
-| Name/Link                                                  | Description                                                                                                    | Install   | License    |
-| ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------- | ---------- |
-| [bean](https://github.com/heenatrivedi321-max/bean)        | Picks the right local model for your hardware, downloads it, and hands off to the app                          | Download  | MIT        |
-| [lucinate](https://github.com/lucinate-ai/lucinate)        | Multi-backend terminal AI chat client for OpenAI-compatible APIs                                               | Download  | Apache-2.0 |
-| [modelfit](https://github.com/Wecko-ai/modelfit)           | Detects your hardware and recommends the best local model that fits, with JSON output                          | npm       | MIT        |
-| [Nanocoder](https://github.com/Nano-Collective/nanocoder)  | Local-first terminal coding agent, bring your own model                                                        | npm       | MIT        |
-| [ollama-top](https://github.com/glueck-it/ollama-top)      | htop-style terminal UI for local models, GPUs and batch pipelines                                              | Download  | MIT        |
-| [osync](https://github.com/mann1x/osync/)                  | Copy local Ollama models to any accessible remote Ollama instance, C# .NET 8, Windows, macOS, Linux x64/arm64  | Download  | MIT        |
-| [otaku](https://github.com/enclavum/otaku)                 | LLM frontend for roleplay                                                                                      | pip       | AGPL-3.0   |
-| [quickthink](https://github.com/hermes-labs-ai/quickthink) | Local-first CLI and library wrapping LLM calls with plan-then-answer compression and latency-aware routing     | pip       | Apache-2.0 |
-| [Quorum](https://github.com/Detrol/quorum-cli)             | Multi-agent AI discussions with Ollama auto-discovery and 7 debate methods                                     | pip       | Custom     |
-| [Samuraizer](https://github.com/UladzKha/samuraizer-cli)   | Local-first meeting transcription, summaries, action items and decisions via Whisper                           | npm       | MIT        |
-| [Sifty](https://github.com/Vortrix5/sifty)                 | Windows maintenance CLI/TUI with an optional local assistant explaining what is safe to clean                  | pip       | MIT        |
+| Name/Link                                                  | Description                                                                                                                                                    | Install  | License    |
+| ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
+| [bean](https://github.com/heenatrivedi321-max/bean)        | Picks the right local model for your hardware, downloads it, and hands off to the app                                                                          | Download | MIT        |
+| [Korvin](https://github.com/nosistech/korvin)              | Private terminal assistant built in Python standard library for small local models (Qwen 3.5 2B on a 4 GB GPU), with approval prompts and a sealed action log. | Source   | Apache-2.0 |
+| [lucinate](https://github.com/lucinate-ai/lucinate)        | Multi-backend terminal AI chat client for OpenAI-compatible APIs                                                                                               | Download | Apache-2.0 |
+| [modelfit](https://github.com/Wecko-ai/modelfit)           | Detects your hardware and recommends the best local model that fits, with JSON output                                                                          | npm      | MIT        |
+| [Nanocoder](https://github.com/Nano-Collective/nanocoder)  | Local-first terminal coding agent, bring your own model                                                                                                        | npm      | MIT        |
+| [ollama-top](https://github.com/glueck-it/ollama-top)      | htop-style terminal UI for local models, GPUs and batch pipelines                                                                                              | Download | MIT        |
+| [osync](https://github.com/mann1x/osync/)                  | Copy local Ollama models to any accessible remote Ollama instance, C# .NET 8, Windows, macOS, Linux x64/arm64                                                  | Download | MIT        |
+| [otaku](https://github.com/enclavum/otaku)                 | LLM frontend for roleplay                                                                                                                                      | pip      | AGPL-3.0   |
+| [quickthink](https://github.com/hermes-labs-ai/quickthink) | Local-first CLI and library wrapping LLM calls with plan-then-answer compression and latency-aware routing                                                     | pip      | Apache-2.0 |
+| [Quorum](https://github.com/Detrol/quorum-cli)             | Multi-agent AI discussions with Ollama auto-discovery and 7 debate methods                                                                                     | pip      | Custom     |
+| [Samuraizer](https://github.com/UladzKha/samuraizer-cli)   | Local-first meeting transcription, summaries, action items and decisions via Whisper                                                                           | npm      | MIT        |
+| [Sifty](https://github.com/Vortrix5/sifty)                 | Windows maintenance CLI/TUI with an optional local assistant explaining what is safe to clean                                                                  | pip      | MIT        |
 
 ## Model Evaluation and Testing Tools
 
